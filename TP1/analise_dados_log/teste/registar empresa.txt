@@ -1,0 +1,5 @@
+registar empresa "servico taxi longiquo" "vUNkZ" ;
+registar empresa "transporte 365" "2cgSCY" ;
+registar empresa "servico transporte disponivel" "9V2VK@DXcZZF" ;
+registar empresa "transporte 24" "lNcO1TSD" ;
+registar empresa "viagens longiquo" "-I4v" ;
