@@ -1,0 +1,5 @@
+[MASTER] 17:38:28.970 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Comparator<T> : Type points to itself
+[MASTER] 17:39:57.664 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for javafx.util.Callback<P, R> : Type points to itself
+[MASTER] 17:41:16.912 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.time.temporal.TemporalQuery<R> : Type points to itself
+[MASTER] 17:41:34.569 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.function.Function<T, R> : Type points to itself
+[MASTER] 17:42:05.401 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ArrayList<E> : Type points to itself

@@ -1,0 +1,4 @@
+* Starting client
+* Connecting to master process on port 2975
+* Analyzing classpath: 
+* Error while initializing target class: org.evosuite.runtime.mock.java.util.MockUUID.UUID(JJ)Ljava/util/UUID;

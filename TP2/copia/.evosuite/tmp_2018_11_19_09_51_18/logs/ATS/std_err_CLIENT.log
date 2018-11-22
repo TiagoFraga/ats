@@ -1,0 +1,18 @@
+[MASTER] 09:52:33.599 [TEST_EXECUTION_THREAD_0] ERROR FunctionalMockStatement - Cannot use Mockito on class org.antlr.v4.runtime.Parser due to IAE: 
+Mockito cannot mock this class: class org.antlr.v4.runtime.Parser.
+
+Mockito can only mock non-private & non-final classes.
+If you're not sure why you're getting this error, please report to the mailing list.
+
+
+Java               : 1.8
+JVM vendor name    : Oracle Corporation
+JVM vendor version : 25.131-b11
+JVM name           : Java HotSpot(TM) 64-Bit Server VM
+JVM version        : 1.8.0_131-b11
+JVM info           : mixed mode
+OS name            : Mac OS X
+OS version         : 10.14.1
+
+
+Underlying exception : java.lang.IllegalArgumentException: Could not create type

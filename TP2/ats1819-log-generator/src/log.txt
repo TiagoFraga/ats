@@ -1,0 +1,3393 @@
+registar condutor "Selene_Ferreira@gmail.com" "Selene Ferreira" "JCcT6vD3g" "Largo Maria Judite de Carvalho, 1710, 1800-925 Lisboa" 1920-12-9 114 ;
+
+registar cliente "Ivanoel_Matias@hotmail.com" "Ivanoel Matias" "1zJNPxjkr" "Rua da Carvalhosa, 475, 4520-526 Sanfins" 1951-2-19 (86.4,43.0) ;
+
+login "Ivanoel_Matias@hotmail.com" "1zJNPxjkr" ; 
+solicitar (77.1,95.4) ;
+solicitar (98.0,81.9) ;
+solicitar (3.6,60.3) ;
+logout ;
+
+registar cliente "Dominico_Esteves@sapo.pt" "Dominico Esteves" "ayC0kftE3" "Travessa das Fontainhas, 1032, 5385-115 Torre Dona Chama" 1953-7-12 (53.6,52.1) ;
+
+login "Ivanoel_Matias@hotmail.com" "1zJNPxjkr" ; 
+solicitar (67.1,12.8) ;
+solicitar (22.0,94.6) ;
+solicitar (33.5,36.3) ;
+logout ;
+
+login "Selene_Ferreira@gmail.com" "JCcT6vD3g" ;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar empresa "Empresa 0" "aj9ms4CEr" ;
+
+registar condutor "Gracia_Gaspar@hotmail.com" "Gracia Gaspar" "14pDAmaBJ" "Rua Aurelio Martins, 810, 7370-191 Nossa Senhora da Graca Degolados" 2012-2-24 470 ;
+
+login "Gracia_Gaspar@hotmail.com" "14pDAmaBJ" ;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar cliente "Ursacio_Abreu@gmail.com" "Ursacio Abreu" "8gtSkXaBg" "Rua Gilberto P Varela, 1099, 7400-037 Galveias" 1936-9-17 (82.7,78.6) ;
+
+login "Ursacio_Abreu@gmail.com" "8gtSkXaBg" ; 
+solicitar (15.5,2.1) ;
+solicitar (14.8,94.2) ;
+solicitar (73.0,72.7) ;
+solicitar (53.2,23.6) ;
+solicitar (17.3,33.6) ;
+logout ;
+
+registar cliente "Alipio_Loureiro@mail.google.com" "Alipio Loureiro" "l9f9FVQyR" "Rua Vasco da Gama, 772, 2560-232 Torres Vedras" 1901-3-19 (35.4,48.7) ;
+
+login "Gracia_Gaspar@hotmail.com" "14pDAmaBJ" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Ivanoel_Matias@hotmail.com" "1zJNPxjkr" ; 
+solicitar (43.9,77.2) ;
+solicitar (83.8,6.4) ;
+solicitar (13.2,12.7) ;
+solicitar (46.2,79.9) ;
+solicitar (76.9,2.7) ;
+logout ;
+
+login "Ivanoel_Matias@hotmail.com" "1zJNPxjkr" ; 
+solicitar (36.3,86.5) ;
+solicitar (94.6,3.8) ;
+logout ;
+
+registar helicoptero "98-MB-96" 53 (9.8,9.6) "Selene_Ferreira@gmail.com" ;
+
+registar empresa "Empresa 1" "CFNKf5WZC" ;
+
+registar helicoptero "05-NN-13" 88 (0.5,1.3) "Selene_Ferreira@gmail.com" ;
+
+registar mota "77-OC-05" 46 (7.7,0.5) empresa "Empresa 0" ;
+
+registar condutor "Jetro_Guerreiro@hotmail.com" "Jetro Guerreiro" "mOZfd32bR" "Largo Doutor Celestino Gomes, 2224, 2985-034 Canha" 1908-6-27 410 ;
+
+registar cliente "Micael_Borges@outlook.com" "Micael Borges" "17eEUGCCO" "Caminho da Guistela, 2272, 4925-481 Montaria" 1985-9-15 (73.1,58.8) ;
+
+login "Selene_Ferreira@gmail.com" "JCcT6vD3g" ;
+recusar viagem;
+recusar viagem;
+viajar;
+logout ;
+
+registar helicoptero "80-CS-79" 50 (8.0,7.9) "Jetro_Guerreiro@hotmail.com" ;
+
+registar cliente "Adail_Ribeiro@sapo.pt" "Adail Ribeiro" "cGk4EWj41" "Avenida Nacoes Unidas, 1831, 2135-197 Porto Alto" 1971-11-14 (55.5,2.8) ;
+
+registar cliente "Amelina_Ferreira@hotmail.com" "Amelina Ferreira" "l71IPkAs4" "Avenida General Rocadas, 1470, 1170-156 Lisboa" 1942-6-12 (43.0,59.3) ;
+
+registar cliente "Safira_Maia@outlook.com" "Safira Maia" "fW3K7u9GY" "Canada da Dona Marquesa, 2340, 9760-509 Praia da Vitoria" 1967-5-4 (6.4,42.3) ;
+
+login "Adail_Ribeiro@sapo.pt" "cGk4EWj41" ; 
+solicitar (21.4,72.2) ;
+solicitar (18.6,14.7) ;
+solicitar (85.6,66.7) ;
+solicitar (73.8,97.8) ;
+solicitar (37.1,92.9) ;
+logout ;
+
+registar carrinha "09-YB-05" 45 (0.9,0.5) "Jetro_Guerreiro@hotmail.com" ;
+
+registar empresa "Empresa 2" "4tkuOnQuJ" ;
+
+registar carro "29-CH-95" 82 (2.9,9.5) empresa "Empresa 1" ;
+
+registar carro "57-OW-55" 71 (5.7,5.5) "Jetro_Guerreiro@hotmail.com" ;
+
+registar helicoptero "58-BJ-44" 46 (5.8,4.4) empresa "Empresa 0" ;
+
+registar condutor "Ferdinando_Nogueira@outlook.com" "Ferdinando Nogueira" "wVMjYSQGA" "Rua de Campolide, 1369, 1099-016 Lisboa" 1963-12-21 188 ;
+
+login "Gracia_Gaspar@hotmail.com" "14pDAmaBJ" ;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar helicoptero "96-PD-98" 52 (9.6,9.8) "Ferdinando_Nogueira@outlook.com" ;
+
+registar empresa "Empresa 1" "3WUlwFvLG" ;
+
+login "Ursacio_Abreu@gmail.com" "8gtSkXaBg" ; 
+solicitar (36.7,81.9) ;
+solicitar (33.6,24.5) ;
+solicitar (69.8,1.9) ;
+logout ;
+
+registar mota "16-KF-66" 80 (1.6,6.6) "Jetro_Guerreiro@hotmail.com" ;
+
+registar empresa "Empresa 4" "a2aS1ZXZs" ;
+
+registar mota "98-KN-61" 53 (9.8,6.1) empresa "Empresa 0" ;
+
+login "Jetro_Guerreiro@hotmail.com" "mOZfd32bR" ;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar helicoptero "35-GX-54" 83 (3.5,5.4) "Ferdinando_Nogueira@outlook.com" ;
+
+login "Jetro_Guerreiro@hotmail.com" "mOZfd32bR" ;
+recusar viagem;
+viajar;
+logout ;
+
+registar cliente "Valerio_Carneiro@sapo.pt" "Valerio Carneiro" "u500p4wHW" "Travessa da Biblioteca, 1151, 2580-522 Alenquer" 1925-10-13 (100.4,17.5) ;
+
+login "Micael_Borges@outlook.com" "17eEUGCCO" ; 
+solicitar (28.6,86.2) ;
+solicitar (75.7,35.4) ;
+solicitar (95.1,15.4) ;
+solicitar (79.8,64.2) ;
+solicitar (49.5,8.2) ;
+logout ;
+
+registar mota "56-UN-76" 71 (5.6,7.6) empresa "Empresa 4" ;
+
+login "Micael_Borges@outlook.com" "17eEUGCCO" ; 
+solicitar (77.3,6.5) ;
+solicitar (96.0,46.6) ;
+solicitar (21.1,38.0) ;
+logout ;
+
+registar cliente "Juventino_Brito@hotmail.com" "Juventino Brito" "9JDx6NjlV" "Rua do Outeiro, 276, 1685-542 Canecas" 1927-10-25 (97.2,3.6) ;
+
+login "Ferdinando_Nogueira@outlook.com" "wVMjYSQGA" ;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar carro "44-DA-57" 90 (4.4,5.7) "Selene_Ferreira@gmail.com" ;
+
+registar empresa "Empresa 2" "VX3FVbaXq" ;
+
+registar carrinha "52-KM-26" 50 (5.2,2.6) "Selene_Ferreira@gmail.com" ;
+
+registar helicoptero "09-TA-60" 64 (0.9,6.0) empresa "Empresa 5" ;
+
+registar cliente "Heitor_Domingues@sapo.pt" "Heitor Domingues" "4vkel47uY" "Travessa do Cedro, 1042, 3025-357 Casais de Vera Cruz" 1974-10-14 (89.2,67.2) ;
+
+registar empresa "Empresa 3" "dUP8TaN0D" ;
+
+registar cliente "Ilca_Figueiredo@hotmail.com" "Ilca Figueiredo" "VVAxAlAPx" "Travessa dos Pocos, 1162, 9325-376 Estreito Camara de Lobos" 1954-11-15 (74.7,72.4) ;
+
+registar carro "51-AX-30" 67 (5.1,3.0) "Gracia_Gaspar@hotmail.com" ;
+
+registar cliente "Jesus_Leite@hotmail.com" "Jesus Leite" "JJBuZa01T" "Rua Comendador Armindo da Fonseca, 998, 3100-436 Pombal" 1914-3-2 (19.0,52.2) ;
+
+registar cliente "Eduino_Magalhaes@sapo.pt" "Eduino Magalhaes" "zNI6qDATo" "Rua de Sao Miguel da Cacarilhe, 472, 4890-124 Cacarilhe" 1968-10-4 (23.4,57.1) ;
+
+login "Amelina_Ferreira@hotmail.com" "l71IPkAs4" ; 
+solicitar (66.3,74.5) ;
+solicitar (93.2,89.5) ;
+solicitar (43.6,73.1) ;
+logout ;
+
+registar mota "05-GZ-24" 57 (0.5,2.4) "Jetro_Guerreiro@hotmail.com" ;
+
+registar helicoptero "91-BX-59" 79 (9.1,5.9) empresa "Empresa 5" ;
+
+login "Selene_Ferreira@gmail.com" "JCcT6vD3g" ;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar carrinha "75-CO-13" 87 (7.5,1.3) empresa "Empresa 4" ;
+
+registar mota "90-CO-74" 64 (9.0,7.4) empresa "Empresa 5" ;
+
+login "Ivanoel_Matias@hotmail.com" "1zJNPxjkr" ; 
+solicitar (92.3,35.7) ;
+solicitar (63.9,77.5) ;
+solicitar (54.4,28.1) ;
+solicitar (18.8,37.0) ;
+logout ;
+
+registar mota "68-OF-22" 61 (6.8,2.2) "Selene_Ferreira@gmail.com" ;
+
+registar carrinha "21-MI-09" 78 (2.1,0.9) empresa "Empresa 4" ;
+
+registar helicoptero "83-XT-44" 59 (8.3,4.4) "Ferdinando_Nogueira@outlook.com" ;
+
+registar carro "19-LD-76" 89 (1.9,7.6) empresa "Empresa 6" ;
+
+registar condutor "Carmen_Teixeira@gmail.com" "Carmen Teixeira" "3VZuwLh9V" "Rua Luis Teixeira, 209, 2815-782 Sobreda" 1989-8-11 394 ;
+
+registar condutor "Celio_Martins@mail.google.com" "Celio Martins" "3aNENTsMd" "Rua do Moinho Velho, 1987, 2495-651 Moita Redonda" 2002-9-29 82 ;
+
+registar carrinha "67-DC-33" 39 (6.7,3.3) "Ferdinando_Nogueira@outlook.com" ;
+
+registar condutor "Hildegarda_Brito@mail.google.com" "Hildegarda Brito" "YdTUHBlFP" "Calcada de Santo Andre, 131, 1100-495 Lisboa" 2011-1-17 50 ;
+
+registar empresa "Empresa 5" "J4xAWFGvL" ;
+
+registar condutor "Hermiterio_Nunes@hotmail.com" "Hermiterio Nunes" "b8b8GaZnp" "Canada do Eduino, 2290, 9700-661 Serreta" 1986-4-21 150 ;
+
+login "Jesus_Leite@hotmail.com" "JJBuZa01T" ; 
+solicitar (84.2,82.0) ;
+solicitar (86.0,77.0) ;
+solicitar (96.3,91.0) ;
+logout ;
+
+registar carrinha "73-JO-60" 72 (7.3,6.0) "Ferdinando_Nogueira@outlook.com" ;
+
+registar condutor "Lara_Pinho@mail.google.com" "Lara Pinho" "fLcDcI97S" "Rua das Pereiras, 1626, 4615-409 Macieira da Lixa" 1988-7-13 91 ;
+
+registar carro "79-ML-55" 73 (7.9,5.5) "Lara_Pinho@mail.google.com" ;
+
+login "Selene_Ferreira@gmail.com" "JCcT6vD3g" ;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar carrinha "05-VV-11" 46 (0.5,1.1) "Ferdinando_Nogueira@outlook.com" ;
+
+registar carro "56-FT-02" 46 (5.6,0.2) "Jetro_Guerreiro@hotmail.com" ;
+
+login "Safira_Maia@outlook.com" "fW3K7u9GY" ; 
+solicitar (35.4,3.1) ;
+solicitar (13.3,97.6) ;
+logout ;
+
+login "Lara_Pinho@mail.google.com" "fLcDcI97S" ;
+recusar viagem;
+logout ;
+
+login "Safira_Maia@outlook.com" "fW3K7u9GY" ; 
+solicitar (55.0,31.2) ;
+solicitar (10.5,9.9) ;
+solicitar (47.2,34.3) ;
+logout ;
+
+login "Valerio_Carneiro@sapo.pt" "u500p4wHW" ; 
+solicitar (33.0,61.0) ;
+solicitar (77.3,3.9) ;
+logout ;
+
+login "Celio_Martins@mail.google.com" "3aNENTsMd" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar carrinha "36-BU-17" 75 (3.6,1.7) empresa "Empresa 4" ;
+
+registar carrinha "42-NZ-99" 81 (4.2,9.9) empresa "Empresa 5" ;
+
+registar mota "95-QI-01" 58 (9.5,0.1) empresa "Empresa 1" ;
+
+login "Alipio_Loureiro@mail.google.com" "l9f9FVQyR" ; 
+solicitar (20.2,52.5) ;
+solicitar (71.1,16.1) ;
+solicitar (67.8,96.6) ;
+solicitar (53.7,79.2) ;
+logout ;
+
+login "Lara_Pinho@mail.google.com" "fLcDcI97S" ;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar condutor "Ianis_Pereira@mail.google.com" "Ianis Pereira" "8aFS176xk" "Largo de Sao Jose, 1888, 2525-028 Atouguia da Baleia" 1932-6-23 289 ;
+
+registar carro "37-ER-54" 44 (3.7,5.4) "Selene_Ferreira@gmail.com" ;
+
+registar mota "54-DS-71" 77 (5.4,7.1) "Ianis_Pereira@mail.google.com" ;
+
+registar condutor "Judas_Paiva@gmail.com" "Judas Paiva" "QmRBzctCT" ", 2160, 3250-211 Pinheiral" 1992-9-17 304 ;
+
+registar mota "46-KY-97" 71 (4.6,9.7) "Judas_Paiva@gmail.com" ;
+
+registar carro "66-UV-59" 57 (6.6,5.9) "Ferdinando_Nogueira@outlook.com" ;
+
+registar carro "48-AZ-03" 80 (4.8,0.3) empresa "Empresa 4" ;
+
+registar cliente "Davi_Goncalves@hotmail.com" "Davi Goncalves" "LjDwvPytz" "Rua Sebastiao Saraiva Lima, 458, 1170-343 Lisboa" 1944-7-30 (29.0,54.5) ;
+
+registar carrinha "89-BQ-56" 50 (8.9,5.6) "Celio_Martins@mail.google.com" ;
+
+registar cliente "Fulvio_Pires@mail.google.com" "Fulvio Pires" "2lxSq3eAf" "Rua dos Cravos, 1851, 7630-033 Boavista dos Pinheiros" 2006-7-19 (72.8,12.8) ;
+
+registar mota "51-VC-06" 84 (5.1,0.6) "Ianis_Pereira@mail.google.com" ;
+
+login "Amelina_Ferreira@hotmail.com" "l71IPkAs4" ; 
+solicitar (8.7,27.2) ;
+solicitar (75.6,33.8) ;
+solicitar (54.5,38.1) ;
+solicitar (53.0,77.3) ;
+logout ;
+
+login "Jesus_Leite@hotmail.com" "JJBuZa01T" ; 
+solicitar (51.6,25.4) ;
+solicitar (82.2,14.1) ;
+solicitar (99.2,81.8) ;
+solicitar (96.8,65.8) ;
+logout ;
+
+registar helicoptero "16-UA-40" 69 (1.6,4.0) "Hermiterio_Nunes@hotmail.com" ;
+
+registar cliente "Tacio_Vieira@outlook.com" "Tacio Vieira" "xkCnyO1jQ" "Estrada Nacional 252, 1225, 2950-402 Carrascas" 1926-9-8 (22.0,52.9) ;
+
+registar condutor "Iberico_Azevedo@outlook.com" "Iberico Azevedo" "7WwFPltya" "Rua Damiao de Gois, 1615, 2330-300 Entroncamento" 2000-12-6 236 ;
+
+registar mota "55-FI-92" 54 (5.5,9.2) empresa "Empresa 7" ;
+
+registar condutor "Georgina_Pacheco@mail.google.com" "Georgina Pacheco" "2xdCvZccW" "Travessa Vinhal de Cima, 2460, 4420-351 Gondomar" 1902-12-6 23 ;
+
+registar carrinha "88-VH-90" 44 (8.8,9.0) empresa "Empresa 4" ;
+
+registar condutor "Saula_Araujo@gmail.com" "Saula Araujo" "1OJbt4Mfz" "Rua da Portela, 1020, 3730-355 Chao da Cancela" 1961-11-8 390 ;
+
+registar helicoptero "34-YU-05" 31 (3.4,0.5) "Carmen_Teixeira@gmail.com" ;
+
+registar carrinha "83-XK-59" 90 (8.3,5.9) empresa "Empresa 7" ;
+
+registar mota "06-TT-74" 62 (0.6,7.4) "Selene_Ferreira@gmail.com" ;
+
+registar cliente "Delmar_Vieira@mail.google.com" "Delmar Vieira" "7jiDT5nLp" "Rua Padre Miguel Jose da Cruz, 1157, 3750-101 agueda" 1996-11-22 (6.0,68.7) ;
+
+login "Amelina_Ferreira@hotmail.com" "l71IPkAs4" ; 
+solicitar (73.5,4.0) ;
+solicitar (48.3,52.4) ;
+solicitar (74.6,27.4) ;
+solicitar (20.9,78.1) ;
+logout ;
+
+registar mota "42-LO-09" 86 (4.2,0.9) "Judas_Paiva@gmail.com" ;
+
+registar cliente "Gaia_Teixeira@outlook.com" "Gaia Teixeira" "rvkTmG14e" "Largo Serpa Pinto, 1550, 6440-118 Figueira Castelo Rodrigo" 1935-11-29 (95.7,96.7) ;
+
+login "Amelina_Ferreira@hotmail.com" "l71IPkAs4" ; 
+solicitar (62.7,43.3) ;
+solicitar (60.7,70.5) ;
+solicitar (62.4,70.4) ;
+solicitar (93.0,24.4) ;
+logout ;
+
+registar helicoptero "31-EN-69" 49 (3.1,6.9) "Ianis_Pereira@mail.google.com" ;
+
+login "Davi_Goncalves@hotmail.com" "LjDwvPytz" ; 
+solicitar (100.6,48.8) ;
+solicitar (89.3,70.9) ;
+logout ;
+
+registar carro "99-LI-41" 34 (9.9,4.1) "Hermiterio_Nunes@hotmail.com" ;
+
+registar mota "56-TS-72" 88 (5.6,7.2) "Lara_Pinho@mail.google.com" ;
+
+registar helicoptero "93-AG-24" 60 (9.3,2.4) "Ianis_Pereira@mail.google.com" ;
+
+registar mota "88-YV-22" 46 (8.8,2.2) empresa "Empresa 3" ;
+
+login "Saula_Araujo@gmail.com" "1OJbt4Mfz" ;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar mota "06-RP-40" 75 (0.6,4.0) empresa "Empresa 0" ;
+
+registar carrinha "06-RE-52" 64 (0.6,5.2) empresa "Empresa 2" ;
+
+registar cliente "aser_Rocha@mail.google.com" "aser Rocha" "Kh4gkKvyj" "Rua Padre Luis Alvares, 576, 6270-319 Sao Romao" 1957-11-19 (8.0,80.5) ;
+
+registar condutor "Ilse_Assuncao@mail.google.com" "Ilse Assuncao" "X17j3ICf8" "Rua Doutor Sa Carneiro, 2398, 4775-069 Sao Miguel da Carreira" 1954-5-11 327 ;
+
+registar carro "94-SB-86" 30 (9.4,8.6) empresa "Empresa 4" ;
+
+registar mota "79-EZ-98" 83 (7.9,9.8) "Celio_Martins@mail.google.com" ;
+
+login "Ferdinando_Nogueira@outlook.com" "wVMjYSQGA" ;
+recusar viagem;
+recusar viagem;
+viajar;
+recusar viagem;
+logout ;
+
+registar cliente "Camila_Pires@mail.google.com" "Camila Pires" "i7woRPEZy" "Rua Jose Carlos Ary dos Santos, 457, 2950-357 Palmela" 1957-9-10 (88.6,41.7) ;
+
+registar carro "86-XI-03" 65 (8.6,0.3) empresa "Empresa 6" ;
+
+login "Eduino_Magalhaes@sapo.pt" "zNI6qDATo" ; 
+solicitar (50.0,54.4) ;
+solicitar (59.1,94.8) ;
+solicitar (16.8,92.8) ;
+solicitar (6.5,87.6) ;
+logout ;
+
+registar carro "01-NX-58" 65 (0.1,5.8) "Judas_Paiva@gmail.com" ;
+
+registar carrinha "17-WN-51" 54 (1.7,5.1) empresa "Empresa 0" ;
+
+registar condutor "Deivid_Carvalho@gmail.com" "Deivid Carvalho" "zCt6oUsUA" "Beco Sant'Ana, 1351, 9500-366 Arrifes" 1974-3-16 340 ;
+
+registar empresa "Empresa 7" "hJhaaLLw0" ;
+
+registar carro "36-VU-44" 40 (3.6,4.4) empresa "Empresa 7" ;
+
+registar condutor "Ireneia_Raposo@sapo.pt" "Ireneia Raposo" "9KQElOxHP" "Rua Diogo Cao, 1198, 2830-577 Barreiro" 1921-11-1 360 ;
+
+login "Micael_Borges@outlook.com" "17eEUGCCO" ; 
+solicitar (69.3,40.3) ;
+solicitar (1.4,62.7) ;
+solicitar (28.2,96.8) ;
+logout ;
+
+registar helicoptero "32-CD-51" 40 (3.2,5.1) "Hermiterio_Nunes@hotmail.com" ;
+
+registar carrinha "92-WK-45" 70 (9.2,4.5) empresa "Empresa 6" ;
+
+registar condutor "Angel_Amorim@hotmail.com" "Angel Amorim" "J41cteNCD" "Rua 33, 2397, 2830-138 Barreiro" 1941-8-27 379 ;
+
+registar carro "56-HM-49" 55 (5.6,4.9) empresa "Empresa 2" ;
+
+registar mota "14-VZ-38" 70 (1.4,3.8) "Ireneia_Raposo@sapo.pt" ;
+
+registar empresa "Empresa 4" "BEMi1XDLT" ;
+
+registar carro "78-LV-20" 78 (7.8,2.0) empresa "Empresa 1" ;
+
+registar carrinha "67-DT-88" 55 (6.7,8.8) "Ferdinando_Nogueira@outlook.com" ;
+
+registar cliente "Delfino_Simoes@hotmail.com" "Delfino Simoes" "RKFB2rdiW" "Avenida da Estacao, 821, 4775-251 Viatodos" 1971-7-9 (83.0,28.3) ;
+
+registar condutor "Raimundo_Henriques@mail.google.com" "Raimundo Henriques" "b8QXlbJk1" "Beco do Calvario, 202, 3440-632 Nagosela" 1933-4-23 264 ;
+
+registar empresa "Empresa 7" "TsFk948cm" ;
+
+login "Hildegarda_Brito@mail.google.com" "YdTUHBlFP" ;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar empresa "Empresa 1" "I2XxGTnCi" ;
+
+registar condutor "Hortense_Mota@gmail.com" "Hortense Mota" "6kOlffZBA" "Travessa da Senhora da Conceicao, 298, 3080-316 Buarcos" 1964-6-3 122 ;
+
+registar condutor "Anael_Anjos@gmail.com" "Anael Anjos" "NT6KbZlB6" "Rua das Minas, 544, 4720-654 Bouro de Santa Marta" 2004-5-31 175 ;
+
+login "Georgina_Pacheco@mail.google.com" "2xdCvZccW" ;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar carro "87-NW-49" 61 (8.7,4.9) "Ilse_Assuncao@mail.google.com" ;
+
+registar condutor "Elmer_Gaspar@mail.google.com" "Elmer Gaspar" "U9YrvQmiE" "Rua da Independencia de Angola, 1695, 2815-851 Sobreda" 1976-10-13 47 ;
+
+registar condutor "Zacarias_Branco@outlook.com" "Zacarias Branco" "s2gkx0imK" ", 1081, 6100-512 Arroteira" 2002-2-18 259 ;
+
+registar condutor "Juvenal_Moreira@gmail.com" "Juvenal Moreira" "T65QCDWin" "Rua Grupo Recreativo Oliveirense, 1581, 4430-426 Vila Nova de Gaia" 2000-2-18 494 ;
+
+registar carro "94-EU-43" 44 (9.4,4.3) empresa "Empresa 8" ;
+
+login "Jesus_Leite@hotmail.com" "JJBuZa01T" ; 
+solicitar (99.7,40.2) ;
+solicitar (76.6,6.4) ;
+solicitar (68.5,27.4) ;
+solicitar (3.9,73.5) ;
+solicitar (1.0,95.9) ;
+logout ;
+
+registar mota "13-CK-23" 64 (1.3,2.3) "Jetro_Guerreiro@hotmail.com" ;
+
+login "Ilca_Figueiredo@hotmail.com" "VVAxAlAPx" ; 
+solicitar (84.2,75.6) ;
+solicitar (34.2,95.8) ;
+solicitar (31.6,52.2) ;
+solicitar (49.0,64.6) ;
+logout ;
+
+registar empresa "Empresa 2" "GZFo30Rvh" ;
+
+login "Anael_Anjos@gmail.com" "NT6KbZlB6" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar condutor "Cristoforo_Vicente@outlook.com" "Cristoforo Vicente" "UpedptpD7" "Rua de Sao Mateus, 1895, 2400-441 Leiria" 1925-12-1 203 ;
+
+registar cliente "Levina_Machado@outlook.com" "Levina Machado" "5eDZx94vN" "Rua do Cercal, 699, 2890-172 Alcochete" 2014-1-28 (72.1,61.9) ;
+
+registar carrinha "93-CG-08" 68 (9.3,0.8) "Gracia_Gaspar@hotmail.com" ;
+
+login "Judas_Paiva@gmail.com" "QmRBzctCT" ;
+viajar;
+logout ;
+
+registar carro "28-RV-98" 39 (2.8,9.8) empresa "Empresa 7" ;
+
+login "Delmar_Vieira@mail.google.com" "7jiDT5nLp" ; 
+solicitar (73.7,19.4) ;
+solicitar (23.9,13.1) ;
+solicitar (81.8,89.6) ;
+solicitar (33.6,46.7) ;
+solicitar (12.9,74.9) ;
+logout ;
+
+registar condutor "Leoberto_Fonseca@outlook.com" "Leoberto Fonseca" "eWpLukEg5" "Rua do Pinhal, 808, 2080-110 Almeirim" 1902-7-5 440 ;
+
+login "Ursacio_Abreu@gmail.com" "8gtSkXaBg" ; 
+solicitar (75.6,66.2) ;
+solicitar (33.0,28.4) ;
+logout ;
+
+registar condutor "Urbino_Amorim@hotmail.com" "Urbino Amorim" "PYB37NwnQ" "Rua Baixa do Cabeco, 1015, 5160-133 Lousa" 1978-10-13 152 ;
+
+registar condutor "Lineu_Vicente@sapo.pt" "Lineu Vicente" "svWJOhs0Q" "Rua Joao Dias Tavares, 1025, 7570-014 Lousal" 2015-4-11 291 ;
+
+registar carrinha "79-AE-49" 43 (7.9,4.9) empresa "Empresa 4" ;
+
+login "Tacio_Vieira@outlook.com" "xkCnyO1jQ" ; 
+solicitar (98.5,80.9) ;
+solicitar (10.6,22.4) ;
+solicitar (88.1,73.5) ;
+solicitar (34.4,7.0) ;
+solicitar (34.5,1.7) ;
+logout ;
+
+registar cliente "Floriana_Borges@outlook.com" "Floriana Borges" "plBvnKF09" "Praca da Corredoura, 1105, 3840-400 Vagos" 1904-12-22 (5.4,94.3) ;
+
+login "Tacio_Vieira@outlook.com" "xkCnyO1jQ" ; 
+solicitar (70.7,54.9) ;
+solicitar (17.7,57.2) ;
+solicitar (2.6,60.1) ;
+logout ;
+
+registar carro "42-CF-65" 51 (4.2,6.5) "Elmer_Gaspar@mail.google.com" ;
+
+login "Ilse_Assuncao@mail.google.com" "X17j3ICf8" ;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+logout ;
+
+registar carro "67-MB-65" 38 (6.7,6.5) empresa "Empresa 10" ;
+
+login "Ferdinando_Nogueira@outlook.com" "wVMjYSQGA" ;
+viajar;
+logout ;
+
+registar carrinha "21-JP-10" 33 (2.1,1.0) "Raimundo_Henriques@mail.google.com" ;
+
+registar carro "36-DY-02" 55 (3.6,0.2) "Anael_Anjos@gmail.com" ;
+
+registar empresa "Empresa 10" "eNIAlEGYE" ;
+
+registar empresa "Empresa 6" "OjdPcuegr" ;
+
+registar carro "94-EN-64" 75 (9.4,6.4) "Jetro_Guerreiro@hotmail.com" ;
+
+registar carrinha "86-HN-83" 65 (8.6,8.3) "Leoberto_Fonseca@outlook.com" ;
+
+registar carro "25-SL-41" 63 (2.5,4.1) empresa "Empresa 9" ;
+
+registar carrinha "27-UT-46" 65 (2.7,4.6) "Carmen_Teixeira@gmail.com" ;
+
+registar condutor "Aleta_Assuncao@hotmail.com" "Aleta Assuncao" "oy346SR3Z" "Rua do Paraiso, 1679, 4770-706 Telhado" 1964-1-4 165 ;
+
+registar cliente "Ovidio_Barbosa@hotmail.com" "Ovidio Barbosa" "hvxgqhN2m" "Rua Braancamp Freire, 1151, 1900-101 Lisboa" 1923-6-5 (2.6,90.3) ;
+
+registar helicoptero "45-BC-74" 34 (4.5,7.4) empresa "Empresa 6" ;
+
+registar helicoptero "13-QB-83" 35 (1.3,8.3) "Raimundo_Henriques@mail.google.com" ;
+
+registar condutor "Hildebrando_Marques@sapo.pt" "Hildebrando Marques" "n3UNYZRAM" "Rua Oliva Telles, 693, 4410-513 Arcozelo" 1983-7-9 12 ;
+
+registar carrinha "63-XN-16" 38 (6.3,1.6) empresa "Empresa 7" ;
+
+registar empresa "Empresa 12" "EdFRakf2B" ;
+
+login "Elmer_Gaspar@mail.google.com" "U9YrvQmiE" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+logout ;
+
+login "Floriana_Borges@outlook.com" "plBvnKF09" ; 
+solicitar (88.6,53.5) ;
+solicitar (23.8,13.0) ;
+logout ;
+
+registar cliente "Elisama_Coelho@mail.google.com" "Elisama Coelho" "L8aprMRxJ" "Avenida das Forcas Armadas, 1728, 2330-065 Entroncamento" 1947-10-11 (47.4,99.7) ;
+
+login "Judas_Paiva@gmail.com" "QmRBzctCT" ;
+viajar;
+viajar;
+logout ;
+
+registar empresa "Empresa 13" "3ShUkTkW9" ;
+
+registar cliente "Vili_Santos@mail.google.com" "Vili Santos" "9EAHHjgpf" "Rua Antonio Caetano de Moura, 432, 4660-245 Resende" 1979-8-1 (89.8,93.0) ;
+
+registar helicoptero "09-YK-35" 59 (0.9,3.5) empresa "Empresa 16" ;
+
+login "Gaia_Teixeira@outlook.com" "rvkTmG14e" ; 
+solicitar (14.6,40.1) ;
+solicitar (50.0,79.3) ;
+solicitar (17.1,86.7) ;
+solicitar (18.6,72.6) ;
+solicitar (51.1,15.4) ;
+logout ;
+
+login "Micael_Borges@outlook.com" "17eEUGCCO" ; 
+solicitar (39.9,71.0) ;
+logout ;
+
+registar mota "34-UO-59" 77 (3.4,5.9) "Deivid_Carvalho@gmail.com" ;
+
+login "Aleta_Assuncao@hotmail.com" "oy346SR3Z" ;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar helicoptero "32-ZO-88" 87 (3.2,8.8) empresa "Empresa 6" ;
+
+registar carro "20-WT-62" 51 (2.0,6.2) "Saula_Araujo@gmail.com" ;
+
+registar carrinha "72-GP-34" 59 (7.2,3.4) "Judas_Paiva@gmail.com" ;
+
+login "Iberico_Azevedo@outlook.com" "7WwFPltya" ;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+login "Iberico_Azevedo@outlook.com" "7WwFPltya" ;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar empresa "Empresa 6" "NhJslFYXg" ;
+
+registar carrinha "84-LF-45" 32 (8.4,4.5) empresa "Empresa 9" ;
+
+registar condutor "Gileade_Campos@hotmail.com" "Gileade Campos" "bkngqyeqT" "Caminho Estaleiro, 1617, 9325-056 Estreito Camara de Lobos" 1996-5-9 123 ;
+
+registar condutor "Jamim_Gaspar@mail.google.com" "Jamim Gaspar" "UoRCC7D2C" "Rua da Paz, 2284, 2635-236 Francos" 2013-5-25 70 ;
+
+login "Deivid_Carvalho@gmail.com" "zCt6oUsUA" ;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar condutor "Erico_Coelho@outlook.com" "Erico Coelho" "ZLekaMU9b" "Rua de Casal do Monte, 1091, 4480-776 Vila do Conde" 1904-1-7 279 ;
+
+registar cliente "Consolacao_Gaspar@outlook.com" "Consolacao Gaspar" "lOcp9ARCt" "Rua Marques de Sa da Bandeira, 1975, 1050-151 Lisboa" 2002-3-11 (18.0,61.1) ;
+
+login "Ireneia_Raposo@sapo.pt" "9KQElOxHP" ;
+viajar;
+viajar;
+logout ;
+
+registar carrinha "15-DY-05" 39 (1.5,0.5) empresa "Empresa 14" ;
+
+registar carrinha "37-FG-40" 82 (3.7,4.0) "Ianis_Pereira@mail.google.com" ;
+
+registar helicoptero "68-TL-42" 52 (6.8,4.2) "Jamim_Gaspar@mail.google.com" ;
+
+registar condutor "Dania_Miranda@outlook.com" "Dania Miranda" "2G83eqdJV" ", 2260, 9580-235 Pico das Almas" 1944-8-19 131 ;
+
+registar cliente "Viveque_Santos@hotmail.com" "Viveque Santos" "xvxaqEBoK" ", 446, 4870-998 Praca" 1957-10-6 (10.5,24.4) ;
+
+registar mota "11-QB-00" 48 (1.1,0.0) "Hildegarda_Brito@mail.google.com" ;
+
+login "Floriana_Borges@outlook.com" "plBvnKF09" ; 
+solicitar (67.8,27.0) ;
+solicitar (95.7,79.1) ;
+logout ;
+
+login "Dania_Miranda@outlook.com" "2G83eqdJV" ;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar empresa "Empresa 7" "1aL3B9kVG" ;
+
+registar condutor "Rafaela_Silva@hotmail.com" "Rafaela Silva" "cmOwxWc7U" "Rua do Barreiro, 878, 3505-563 Viseu" 1910-7-12 415 ;
+
+registar helicoptero "56-RX-40" 62 (5.6,4.0) empresa "Empresa 13" ;
+
+registar mota "76-GL-20" 72 (7.6,2.0) "Lineu_Vicente@sapo.pt" ;
+
+login "Valerio_Carneiro@sapo.pt" "u500p4wHW" ; 
+solicitar (56.3,83.1) ;
+solicitar (91.8,28.0) ;
+solicitar (95.8,1.9) ;
+solicitar (42.0,91.6) ;
+logout ;
+
+login "Consolacao_Gaspar@outlook.com" "lOcp9ARCt" ; 
+solicitar (23.0,31.6) ;
+solicitar (25.1,81.4) ;
+solicitar (45.7,93.0) ;
+solicitar (98.2,71.0) ;
+logout ;
+
+login "Ilca_Figueiredo@hotmail.com" "VVAxAlAPx" ; 
+solicitar (27.9,23.5) ;
+solicitar (17.6,30.4) ;
+solicitar (96.5,87.8) ;
+solicitar (91.2,37.8) ;
+logout ;
+
+registar carrinha "13-ZT-82" 67 (1.3,8.2) empresa "Empresa 10" ;
+
+registar carro "27-SJ-89" 30 (2.7,8.9) "Hildegarda_Brito@mail.google.com" ;
+
+registar mota "19-BQ-32" 89 (1.9,3.2) "Hildebrando_Marques@sapo.pt" ;
+
+registar mota "39-LD-87" 63 (3.9,8.7) "Juvenal_Moreira@gmail.com" ;
+
+registar empresa "Empresa 13" "2lruIMRcJ" ;
+
+registar condutor "Oliveira_Barbosa@sapo.pt" "Oliveira Barbosa" "gXuc2pKnW" "Rua Valinho, 1618, 6215-786 Coutada" 1944-7-12 380 ;
+
+registar condutor "Maximino_Mendes@hotmail.com" "Maximino Mendes" "1Ogr77dkE" "Largo das Amoreiras, 1814, 5070-175 Amieiro" 2010-10-25 311 ;
+
+login "Hildegarda_Brito@mail.google.com" "YdTUHBlFP" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+login "Delmar_Vieira@mail.google.com" "7jiDT5nLp" ; 
+solicitar (9.8,27.2) ;
+solicitar (22.7,53.3) ;
+solicitar (42.9,50.3) ;
+solicitar (23.6,6.9) ;
+solicitar (54.3,94.0) ;
+logout ;
+
+registar carro "95-OE-45" 68 (9.5,4.5) "Ireneia_Raposo@sapo.pt" ;
+
+registar empresa "Empresa 8" "QEzZ9KH3T" ;
+
+registar carro "58-LU-93" 87 (5.8,9.3) "Lineu_Vicente@sapo.pt" ;
+
+registar carrinha "09-ZC-79" 51 (0.9,7.9) empresa "Empresa 12" ;
+
+login "Safira_Maia@outlook.com" "fW3K7u9GY" ; 
+solicitar (45.6,12.9) ;
+solicitar (81.4,1.2) ;
+solicitar (2.0,63.5) ;
+solicitar (67.7,21.2) ;
+solicitar (5.0,28.5) ;
+logout ;
+
+registar carrinha "60-EG-51" 64 (6.0,5.1) empresa "Empresa 20" ;
+
+registar carrinha "47-KV-04" 41 (4.7,0.4) empresa "Empresa 19" ;
+
+login "Ilse_Assuncao@mail.google.com" "X17j3ICf8" ;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar mota "87-MB-92" 40 (8.7,9.2) "Elmer_Gaspar@mail.google.com" ;
+
+registar carrinha "89-IB-80" 63 (8.9,8.0) empresa "Empresa 19" ;
+
+registar mota "91-YM-76" 32 (9.1,7.6) "Erico_Coelho@outlook.com" ;
+
+login "Ovidio_Barbosa@hotmail.com" "hvxgqhN2m" ; 
+solicitar (30.2,47.9) ;
+solicitar (7.7,91.6) ;
+logout ;
+
+registar helicoptero "22-WP-10" 48 (2.2,1.0) empresa "Empresa 7" ;
+
+registar cliente "Fernao_Lopes@sapo.pt" "Fernao Lopes" "rSmMvhm0f" ", 1869, 8150-033 Fontainhas" 1953-5-2 (32.1,39.2) ;
+
+registar carro "78-JK-03" 88 (7.8,0.3) empresa "Empresa 0" ;
+
+registar helicoptero "34-TB-27" 33 (3.4,2.7) empresa "Empresa 8" ;
+
+login "Safira_Maia@outlook.com" "fW3K7u9GY" ; 
+solicitar (41.7,82.8) ;
+solicitar (56.6,48.9) ;
+logout ;
+
+login "Tacio_Vieira@outlook.com" "xkCnyO1jQ" ; 
+solicitar (48.0,57.3) ;
+solicitar (71.6,43.0) ;
+logout ;
+
+login "Ferdinando_Nogueira@outlook.com" "wVMjYSQGA" ;
+recusar viagem;
+recusar viagem;
+viajar;
+logout ;
+
+registar cliente "Solano_Pacheco@mail.google.com" "Solano Pacheco" "mrggFS0aJ" "Travessa Oneca Mendes, 133, 4835-087 Guimaraes" 1971-7-3 (39.8,60.9) ;
+
+registar helicoptero "75-KG-68" 77 (7.5,6.8) "Dania_Miranda@outlook.com" ;
+
+registar condutor "Berardo_Branco@sapo.pt" "Berardo Branco" "q08PwAEWZ" "Rua Alto do Poco, 1893, 3780-184 Espairo" 2005-8-23 306 ;
+
+registar carro "99-JV-70" 38 (9.9,7.0) "Iberico_Azevedo@outlook.com" ;
+
+registar carrinha "84-JA-31" 87 (8.4,3.1) empresa "Empresa 6" ;
+
+registar mota "37-FU-62" 85 (3.7,6.2) empresa "Empresa 0" ;
+
+registar cliente "Lianor_Alves@hotmail.com" "Lianor Alves" "AhIMAWTqP" "Rua do Monte de Areosa, 430, 4900-841 Viana do Castelo" 1914-2-12 (73.5,50.6) ;
+
+login "Maximino_Mendes@hotmail.com" "1Ogr77dkE" ;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Hildebrando_Marques@sapo.pt" "n3UNYZRAM" ;
+viajar;
+logout ;
+
+registar cliente "Guida_Garcia@sapo.pt" "Guida Garcia" "QMlissr9Y" ", 1966, 6400-121 Atalaia" 1991-5-1 (58.7,46.5) ;
+
+registar condutor "Cildo_Loureiro@gmail.com" "Cildo Loureiro" "FOJ7TjWKa" "Rua do Outeiro, 2488, 4474-015 Maia" 2006-1-15 22 ;
+
+login "Floriana_Borges@outlook.com" "plBvnKF09" ; 
+solicitar (87.3,100.7) ;
+solicitar (100.8,11.3) ;
+solicitar (95.8,9.2) ;
+solicitar (33.7,64.8) ;
+solicitar (64.3,80.2) ;
+logout ;
+
+registar carrinha "85-HY-33" 51 (8.5,3.3) empresa "Empresa 2" ;
+
+registar condutor "Quiterio_Rocha@gmail.com" "Quiterio Rocha" "TKezGnGKD" "Rua do Carrascal, 148, 4905-274 Moreira de Geraz do Lima" 1999-10-20 302 ;
+
+registar mota "79-FQ-26" 42 (7.9,2.6) "Iberico_Azevedo@outlook.com" ;
+
+registar condutor "Jociano_Barros@gmail.com" "Jociano Barros" "S1llP6cKx" "Rua 5 de Outubro, 747, 4410-360 Arcozelo" 1975-9-10 231 ;
+
+registar mota "29-TN-92" 32 (2.9,9.2) empresa "Empresa 8" ;
+
+login "Eduino_Magalhaes@sapo.pt" "zNI6qDATo" ; 
+solicitar (15.8,28.7) ;
+logout ;
+
+registar cliente "Leolina_Teixeira@hotmail.com" "Leolina Teixeira" "yjhk0deMY" "Caminho do Monte, 1373, 9050-084 Funchal" 1921-6-28 (90.8,3.8) ;
+
+registar carrinha "78-LV-05" 71 (7.8,0.5) empresa "Empresa 7" ;
+
+registar helicoptero "88-PE-07" 51 (8.8,0.7) empresa "Empresa 19" ;
+
+registar condutor "Elias_Nascimento@sapo.pt" "Elias Nascimento" "bEjnxiuW6" "Rua da Calcada, 2026, 2440-098 Brancas" 1942-6-29 143 ;
+
+registar carro "28-LQ-03" 59 (2.8,0.3) empresa "Empresa 20" ;
+
+login "Hildegarda_Brito@mail.google.com" "YdTUHBlFP" ;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar carro "34-DP-95" 37 (3.4,9.5) "Judas_Paiva@gmail.com" ;
+
+login "Juvenal_Moreira@gmail.com" "T65QCDWin" ;
+recusar viagem;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar condutor "Eduartino_Faria@hotmail.com" "Eduartino Faria" "TBsxjTSvo" "Travessa Conego Manuel Jose Barbosa Correia, 1681, 4990-240 Arcozelo" 1970-7-17 97 ;
+
+registar mota "32-JL-79" 73 (3.2,7.9) "Urbino_Amorim@hotmail.com" ;
+
+login "Ursacio_Abreu@gmail.com" "8gtSkXaBg" ; 
+solicitar (92.2,94.6) ;
+solicitar (63.3,4.2) ;
+solicitar (32.4,86.1) ;
+solicitar (25.2,46.7) ;
+solicitar (10.6,54.0) ;
+logout ;
+
+registar carro "05-WZ-30" 56 (0.5,3.0) empresa "Empresa 16" ;
+
+login "Zacarias_Branco@outlook.com" "s2gkx0imK" ;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar carro "92-QL-58" 57 (9.2,5.8) empresa "Empresa 7" ;
+
+registar helicoptero "79-GF-47" 87 (7.9,4.7) "Lineu_Vicente@sapo.pt" ;
+
+login "Raimundo_Henriques@mail.google.com" "b8QXlbJk1" ;
+viajar;
+logout ;
+
+registar carro "91-VY-83" 79 (9.1,8.3) "Celio_Martins@mail.google.com" ;
+
+registar cliente "Samaritano_Goncalves@gmail.com" "Samaritano Goncalves" "bzHeASszg" "Rua Quinta da Brita, 2415, 2815-886 Sobreda" 1974-8-10 (80.9,67.7) ;
+
+registar carro "35-EN-08" 70 (3.5,0.8) "Erico_Coelho@outlook.com" ;
+
+registar carrinha "26-MC-70" 56 (2.6,7.0) empresa "Empresa 17" ;
+
+registar carro "28-BZ-34" 85 (2.8,3.4) empresa "Empresa 10" ;
+
+registar cliente "Aitor_Anjos@mail.google.com" "Aitor Anjos" "avt9efVW6" ", 1698, 3560-063 Quinta da Carrasqueira de Cima" 1918-10-24 (29.9,81.2) ;
+
+registar carrinha "13-YD-93" 46 (1.3,9.3) "Iberico_Azevedo@outlook.com" ;
+
+login "Valerio_Carneiro@sapo.pt" "u500p4wHW" ; 
+solicitar (37.2,46.3) ;
+logout ;
+
+registar condutor "Anaim_Campos@sapo.pt" "Anaim Campos" "XfopExwoj" "Rua Doutor Manuel de Arriaga, 1201, 2380-070 Alcanena" 1999-1-11 240 ;
+
+registar empresa "Empresa 17" "8wI5n22j3" ;
+
+login "Hermiterio_Nunes@hotmail.com" "b8b8GaZnp" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+logout ;
+
+login "Tacio_Vieira@outlook.com" "xkCnyO1jQ" ; 
+solicitar (18.7,85.5) ;
+solicitar (61.2,95.3) ;
+solicitar (38.3,17.1) ;
+logout ;
+
+registar condutor "Cidalisa_Gaspar@gmail.com" "Cidalisa Gaspar" "wou1LHHPM" ", 454, 3105-432 Vale do Fojo" 1909-12-16 148 ;
+
+registar carro "08-PH-90" 74 (0.8,9.0) empresa "Empresa 6" ;
+
+registar carro "00-GL-81" 45 (0.0,8.1) empresa "Empresa 0" ;
+
+registar carrinha "77-UO-57" 46 (7.7,5.7) "Hildegarda_Brito@mail.google.com" ;
+
+registar helicoptero "80-DV-25" 54 (8.0,2.5) empresa "Empresa 0" ;
+
+registar condutor "Corita_Andrade@gmail.com" "Corita Andrade" "NIgIKqnXi" "Calcada do Souto, 914, 4640-005 Ancede" 2002-1-29 194 ;
+
+registar mota "08-SP-27" 59 (0.8,2.7) empresa "Empresa 3" ;
+
+registar mota "01-UB-56" 64 (0.1,5.6) empresa "Empresa 3" ;
+
+registar carrinha "46-JV-54" 64 (4.6,5.4) empresa "Empresa 2" ;
+
+login "Corita_Andrade@gmail.com" "NIgIKqnXi" ;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar cliente "Mem_Carvalho@gmail.com" "Mem Carvalho" "OymovThsd" "Estrada da Rasca, 2456, 2900-579 Setubal" 1933-8-26 (69.9,70.4) ;
+
+login "Deivid_Carvalho@gmail.com" "zCt6oUsUA" ;
+recusar viagem;
+viajar;
+recusar viagem;
+logout ;
+
+login "Anael_Anjos@gmail.com" "NT6KbZlB6" ;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar condutor "Liane_Monteiro@hotmail.com" "Liane Monteiro" "Uzx8wValQ" "Rua do Forno Velho, 595, 4720-418 Figueiredo" 1905-5-22 80 ;
+
+registar carrinha "50-XV-46" 68 (5.0,4.6) "Saula_Araujo@gmail.com" ;
+
+registar carro "99-VM-90" 77 (9.9,9.0) "Maximino_Mendes@hotmail.com" ;
+
+login "Raimundo_Henriques@mail.google.com" "b8QXlbJk1" ;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar carro "75-RK-52" 80 (7.5,5.2) empresa "Empresa 17" ;
+
+login "Tacio_Vieira@outlook.com" "xkCnyO1jQ" ; 
+solicitar (92.9,97.6) ;
+solicitar (88.3,66.9) ;
+logout ;
+
+registar mota "49-AM-93" 72 (4.9,9.3) "Lineu_Vicente@sapo.pt" ;
+
+registar mota "94-TR-49" 72 (9.4,4.9) "Georgina_Pacheco@mail.google.com" ;
+
+registar cliente "Donato_Moura@outlook.com" "Donato Moura" "PTnQnC2kl" "Rua de Sao Salvador da Baia, 1863, 2800-201 Almada" 1968-9-25 (77.8,36.7) ;
+
+registar cliente "Gamaliel_Lourenco@hotmail.com" "Gamaliel Lourenco" "c6fexx7Ex" "Rua da Cabrita, 1459, 4705-629 Sequeira" 1910-3-31 (32.3,43.5) ;
+
+registar condutor "elson_Fernandes@outlook.com" "elson Fernandes" "Irbia7ikT" "Rua Fonte de Gerico, 11, 3040-694 Fontinhosa" 1956-3-1 25 ;
+
+registar mota "34-HJ-27" 62 (3.4,2.7) "Cristoforo_Vicente@outlook.com" ;
+
+login "Aitor_Anjos@mail.google.com" "avt9efVW6" ; 
+solicitar (96.1,36.6) ;
+logout ;
+
+login "Urbino_Amorim@hotmail.com" "PYB37NwnQ" ;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar carrinha "07-YX-14" 34 (0.7,1.4) "Hildebrando_Marques@sapo.pt" ;
+
+login "Valerio_Carneiro@sapo.pt" "u500p4wHW" ; 
+solicitar (36.2,5.9) ;
+solicitar (77.2,84.6) ;
+solicitar (61.1,2.3) ;
+logout ;
+
+registar cliente "Eliab_Gaspar@sapo.pt" "Eliab Gaspar" "tNMhGwEtk" "Rua Doutor Manuel Barbosa, 935, 4775-255 Viatodos" 1997-4-7 (86.6,62.3) ;
+
+login "Delfino_Simoes@hotmail.com" "RKFB2rdiW" ; 
+solicitar (49.6,58.3) ;
+solicitar (9.3,57.8) ;
+logout ;
+
+login "Camila_Pires@mail.google.com" "i7woRPEZy" ; 
+solicitar (91.2,91.7) ;
+logout ;
+
+registar carro "87-EA-94" 68 (8.7,9.4) "Rafaela_Silva@hotmail.com" ;
+
+registar carro "24-FC-11" 76 (2.4,1.1) empresa "Empresa 0" ;
+
+registar carro "68-VZ-24" 44 (6.8,2.4) empresa "Empresa 10" ;
+
+registar condutor "Soeiro_Silva@mail.google.com" "Soeiro Silva" "NeprTsBYB" "Bairro Juncal, 2019, 5425-098 Loivos" 1921-12-22 126 ;
+
+registar carro "35-WG-26" 62 (3.5,2.6) empresa "Empresa 11" ;
+
+registar empresa "Empresa 5" "LLMgB3tzU" ;
+
+registar cliente "Igor_Nunes@mail.google.com" "Igor Nunes" "vmk70aCTV" "Rua Antero de Quental, 1675, 2865-672 Fernao Ferro" 1938-5-14 (40.9,36.9) ;
+
+login "Anael_Anjos@gmail.com" "NT6KbZlB6" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar condutor "Leticia_Pinho@sapo.pt" "Leticia Pinho" "ib8Mqe0lB" "Rua do Sol, 2411, 4770-228 Cruz" 2009-5-12 391 ;
+
+registar helicoptero "37-XC-47" 60 (3.7,4.7) empresa "Empresa 3" ;
+
+registar carrinha "62-DB-87" 55 (6.2,8.7) empresa "Empresa 18" ;
+
+registar cliente "Branca_Martins@hotmail.com" "Branca Martins" "fgNkxu0Uy" "Rua Antonio Costa Ferreira, 1765, 2970-305 Cotovia" 2017-4-16 (34.3,8.3) ;
+
+registar carrinha "72-GO-08" 68 (7.2,0.8) empresa "Empresa 14" ;
+
+registar mota "42-AM-00" 69 (4.2,0.0) "Elias_Nascimento@sapo.pt" ;
+
+registar cliente "Juliao_Matias@hotmail.com" "Juliao Matias" "ap8pV73h5" "Rua Cidade de Rabat, 2332, 1500-164 Lisboa" 1962-6-24 (35.6,13.8) ;
+
+login "Mem_Carvalho@gmail.com" "OymovThsd" ; 
+solicitar (24.0,51.5) ;
+solicitar (99.8,30.3) ;
+solicitar (74.2,95.5) ;
+solicitar (89.5,47.2) ;
+logout ;
+
+registar carro "94-KI-59" 78 (9.4,5.9) "Dania_Miranda@outlook.com" ;
+
+login "Berardo_Branco@sapo.pt" "q08PwAEWZ" ;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar cliente "Amador_Barros@outlook.com" "Amador Barros" "trqxyP2Q6" "Rua E, 2140, 3830-382 ilhavo" 1932-11-13 (86.3,76.5) ;
+
+login "Rafaela_Silva@hotmail.com" "cmOwxWc7U" ;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar cliente "Zoraida_Goncalves@mail.google.com" "Zoraida Goncalves" "Bk57DlVJ3" "Largo das Caravelas, 134, 8365-116 Armacao de Pera" 2008-1-21 (90.8,37.4) ;
+
+login "Levina_Machado@outlook.com" "5eDZx94vN" ; 
+solicitar (45.3,68.7) ;
+logout ;
+
+registar cliente "Helada_Barbosa@outlook.com" "Helada Barbosa" "uzJ0B6KuZ" "Travessa de Fiaes, 2150, 4505-408 Fiaes" 1953-9-17 (48.3,56.7) ;
+
+login "Samaritano_Goncalves@gmail.com" "bzHeASszg" ; 
+solicitar (24.6,24.2) ;
+solicitar (90.8,97.1) ;
+solicitar (25.3,4.8) ;
+solicitar (5.7,62.9) ;
+solicitar (78.6,3.8) ;
+logout ;
+
+registar helicoptero "38-LE-30" 81 (3.8,3.0) "Jociano_Barros@gmail.com" ;
+
+registar helicoptero "97-WL-26" 86 (9.7,2.6) "Cildo_Loureiro@gmail.com" ;
+
+registar condutor "Vestina_Pinheiro@gmail.com" "Vestina Pinheiro" "dBKdYhasX" "Travessa das Barreiras, 2149, 4750-719 Tamel" 1998-2-5 427 ;
+
+login "Raimundo_Henriques@mail.google.com" "b8QXlbJk1" ;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+login "Angel_Amorim@hotmail.com" "J41cteNCD" ;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar cliente "Samara_Santos@hotmail.com" "Samara Santos" "NYlVIcIWU" ", 1729, 6160-353 Lontreira" 1987-9-27 (29.1,74.8) ;
+
+registar helicoptero "96-KP-85" 85 (9.6,8.5) empresa "Empresa 15" ;
+
+login "Juliao_Matias@hotmail.com" "ap8pV73h5" ; 
+solicitar (30.6,66.4) ;
+logout ;
+
+registar mota "23-BO-45" 38 (2.3,4.5) empresa "Empresa 12" ;
+
+registar empresa "Empresa 0" "bMIJfy0OO" ;
+
+registar cliente "Bruce_Cardoso@outlook.com" "Bruce Cardoso" "A0Kph0XYg" ", 945, 8100-057 Revezes" 1938-8-25 (78.7,53.9) ;
+
+registar helicoptero "61-AN-86" 63 (6.1,8.6) empresa "Empresa 21" ;
+
+registar condutor "Anabela_Figueiredo@mail.google.com" "Anabela Figueiredo" "ACzPEchqh" "Rua de Sao Mamede, 1035, 5200-245 Mogadouro" 1981-2-30 191 ;
+
+login "Consolacao_Gaspar@outlook.com" "lOcp9ARCt" ; 
+solicitar (100.6,29.1) ;
+solicitar (55.5,60.7) ;
+solicitar (18.4,25.6) ;
+logout ;
+
+registar carrinha "12-EC-98" 59 (1.2,9.8) "Leoberto_Fonseca@outlook.com" ;
+
+login "Jetro_Guerreiro@hotmail.com" "mOZfd32bR" ;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar cliente "Eliete_Batista@sapo.pt" "Eliete Batista" "MvdfTne12" "Rua Luar de Prata, 2211, 2970-476 Lagoa de Albufeira" 2015-1-27 (75.5,67.1) ;
+
+registar carrinha "13-HA-34" 41 (1.3,3.4) empresa "Empresa 14" ;
+
+registar carro "62-XW-12" 75 (6.2,1.2) empresa "Empresa 22" ;
+
+registar carrinha "50-IO-35" 54 (5.0,3.5) empresa "Empresa 4" ;
+
+login "Zacarias_Branco@outlook.com" "s2gkx0imK" ;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+logout ;
+
+registar empresa "Empresa 8" "iOerh3PJX" ;
+
+registar helicoptero "47-CD-50" 78 (4.7,5.0) empresa "Empresa 6" ;
+
+registar carro "76-BA-77" 86 (7.6,7.7) empresa "Empresa 21" ;
+
+registar carrinha "38-PA-00" 67 (3.8,0.0) empresa "Empresa 11" ;
+
+registar carrinha "13-JI-69" 66 (1.3,6.9) empresa "Empresa 1" ;
+
+registar cliente "Dinarda_Soares@mail.google.com" "Dinarda Soares" "YpTAqL9Z5" "Rua dos Pereiros, 1085, 3040-449 Almalagues" 1958-3-10 (31.4,57.2) ;
+
+login "Igor_Nunes@mail.google.com" "vmk70aCTV" ; 
+solicitar (27.3,18.5) ;
+solicitar (89.8,5.3) ;
+solicitar (66.2,98.1) ;
+logout ;
+
+registar cliente "Belchior_Melo@outlook.com" "Belchior Melo" "kSJ2YY9Oc" ", 1522, 7330-342 Tapada de Mouro" 1944-12-27 (63.6,61.1) ;
+
+registar helicoptero "97-FQ-29" 49 (9.7,2.9) "Cidalisa_Gaspar@gmail.com" ;
+
+login "Lianor_Alves@hotmail.com" "AhIMAWTqP" ; 
+solicitar (38.5,53.8) ;
+solicitar (86.5,71.0) ;
+solicitar (20.3,97.4) ;
+solicitar (61.8,38.1) ;
+solicitar (63.4,14.9) ;
+logout ;
+
+registar helicoptero "36-MN-64" 75 (3.6,6.4) empresa "Empresa 10" ;
+
+registar condutor "Sivio_Andrade@sapo.pt" "Sivio Andrade" "J8skHF33y" "Rua General Jose Celestino da Silva, 1492, 1500-308 Lisboa" 2003-10-24 171 ;
+
+registar helicoptero "67-MU-38" 72 (6.7,3.8) "Ianis_Pereira@mail.google.com" ;
+
+registar empresa "Empresa 1" "59As1vmzk" ;
+
+registar carro "31-JC-60" 45 (3.1,6.0) "Jetro_Guerreiro@hotmail.com" ;
+
+registar helicoptero "53-NF-80" 53 (5.3,8.0) empresa "Empresa 20" ;
+
+registar carro "17-ER-71" 66 (1.7,7.1) "Eduartino_Faria@hotmail.com" ;
+
+registar helicoptero "16-EO-06" 58 (1.6,0.6) empresa "Empresa 2" ;
+
+registar empresa "Empresa 14" "Z1NZe5sdh" ;
+
+registar carrinha "36-GF-97" 81 (3.6,9.7) "Angel_Amorim@hotmail.com" ;
+
+login "Amelina_Ferreira@hotmail.com" "l71IPkAs4" ; 
+solicitar (15.9,7.2) ;
+solicitar (98.6,29.8) ;
+solicitar (37.9,50.9) ;
+solicitar (82.0,47.2) ;
+logout ;
+
+registar condutor "Porfirio_Matos@hotmail.com" "Porfirio Matos" "dyAKNolMQ" "Rua das Pintoras, 374, 2500-064 Fanadia" 1938-12-8 493 ;
+
+registar cliente "Libia_Araujo@sapo.pt" "Libia Araujo" "4lZDjXc7h" "Rua do Covo, 1378, 4800-843 Souto Sao Salvador" 1985-6-13 (31.3,51.0) ;
+
+registar carrinha "74-AQ-51" 34 (7.4,5.1) "Gracia_Gaspar@hotmail.com" ;
+
+login "Gracia_Gaspar@hotmail.com" "14pDAmaBJ" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar cliente "Elca_Reis@hotmail.com" "Elca Reis" "aeFX0v0Ln" "Rua Soeiro Pereira Gomes, 1429, 2820-385 Aroeira" 1938-4-31 (30.8,79.9) ;
+
+registar empresa "Empresa 3" "wpbu90Np1" ;
+
+registar carro "97-XL-50" 82 (9.7,5.0) "Elias_Nascimento@sapo.pt" ;
+
+registar cliente "Alipio_Leal@mail.google.com" "Alipio Leal" "7SKecQKQp" ", 1490, 3630-113 Picoila" 1951-11-2 (17.6,8.4) ;
+
+login "Guida_Garcia@sapo.pt" "QMlissr9Y" ; 
+solicitar (19.1,32.6) ;
+solicitar (14.1,78.0) ;
+solicitar (91.1,39.5) ;
+logout ;
+
+registar carro "65-WJ-05" 36 (6.5,0.5) empresa "Empresa 15" ;
+
+login "Raimundo_Henriques@mail.google.com" "b8QXlbJk1" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar mota "27-UX-62" 83 (2.7,6.2) "Leoberto_Fonseca@outlook.com" ;
+
+registar helicoptero "71-RV-66" 89 (7.1,6.6) empresa "Empresa 6" ;
+
+login "Alipio_Loureiro@mail.google.com" "l9f9FVQyR" ; 
+solicitar (9.8,89.9) ;
+solicitar (55.0,50.5) ;
+solicitar (30.2,71.4) ;
+logout ;
+
+registar carro "77-GG-64" 42 (7.7,6.4) empresa "Empresa 20" ;
+
+registar mota "87-OK-10" 48 (8.7,1.0) "Anaim_Campos@sapo.pt" ;
+
+login "Solano_Pacheco@mail.google.com" "mrggFS0aJ" ; 
+solicitar (1.0,11.1) ;
+solicitar (53.3,35.3) ;
+logout ;
+
+registar empresa "Empresa 7" "xqToJ8575" ;
+
+login "Angel_Amorim@hotmail.com" "J41cteNCD" ;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar cliente "Juvenal_Raposo@sapo.pt" "Juvenal Raposo" "htANzsT2i" "Rua dos Narcisos, 15, 2695-506 Bobadela" 1906-3-21 (18.5,86.3) ;
+
+registar helicoptero "68-CU-38" 40 (6.8,3.8) "Berardo_Branco@sapo.pt" ;
+
+registar carrinha "73-UL-08" 84 (7.3,0.8) "Elmer_Gaspar@mail.google.com" ;
+
+login "Vili_Santos@mail.google.com" "9EAHHjgpf" ; 
+solicitar (45.7,45.3) ;
+logout ;
+
+registar cliente "Canto_Vieira@mail.google.com" "Canto Vieira" "IdNpNDmbK" "Travessa da Capuchinha, 1011, 2715-626 Maceira" 1993-2-4 (88.5,11.1) ;
+
+registar cliente "Damiao_Lima@gmail.com" "Damiao Lima" "0PTCfZVYD" "Travessa da Praia, 800, 2830-374 Barreiro" 1985-3-27 (94.9,25.0) ;
+
+registar carrinha "09-UI-74" 84 (0.9,7.4) empresa "Empresa 25" ;
+
+registar mota "54-RA-15" 70 (5.4,1.5) empresa "Empresa 13" ;
+
+registar helicoptero "92-RW-26" 69 (9.2,2.6) empresa "Empresa 24" ;
+
+login "Leoberto_Fonseca@outlook.com" "eWpLukEg5" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Zacarias_Branco@outlook.com" "s2gkx0imK" ;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar cliente "Eleazar_Raposo@outlook.com" "Eleazar Raposo" "ZGRc3aI0n" "Estrada da Cerca, 356, 2970-262 Almoinha" 1927-6-9 (63.3,97.4) ;
+
+registar condutor "Polibio_Lima@outlook.com" "Polibio Lima" "pMGNvRFdM" ", 2356, 7490-120 Vale de Pegas" 1909-7-20 314 ;
+
+registar condutor "Gervasio_Neves@mail.google.com" "Gervasio Neves" "gLDt8HE1Y" "Rua Adelino da Palma Carlos, 873, 2725-546 Merces" 1911-4-12 454 ;
+
+registar helicoptero "12-VY-65" 57 (1.2,6.5) empresa "Empresa 27" ;
+
+registar carro "57-EG-70" 33 (5.7,7.0) empresa "Empresa 16" ;
+
+registar carrinha "56-UJ-36" 43 (5.6,3.6) "Angel_Amorim@hotmail.com" ;
+
+registar carrinha "07-DF-84" 34 (0.7,8.4) empresa "Empresa 23" ;
+
+registar helicoptero "59-UB-79" 52 (5.9,7.9) empresa "Empresa 11" ;
+
+registar cliente "Josabete_Goncalves@gmail.com" "Josabete Goncalves" "Sc4HVImiK" "Rua Padre Gregorio Bettencourt da Rocha, 510, 9760-292 Lajes" 1958-5-10 (87.2,90.9) ;
+
+login "Lianor_Alves@hotmail.com" "AhIMAWTqP" ; 
+solicitar (1.2,61.3) ;
+solicitar (52.9,54.7) ;
+logout ;
+
+registar empresa "Empresa 5" "jSBwe7x6n" ;
+
+registar cliente "Natercia_Miranda@sapo.pt" "Natercia Miranda" "02gNdfkBZ" "Rua de Sao Roque, 191, 5140-301 Zedes" 1980-5-8 (81.3,77.9) ;
+
+login "Ilca_Figueiredo@hotmail.com" "VVAxAlAPx" ; 
+solicitar (83.3,3.7) ;
+solicitar (98.3,34.8) ;
+logout ;
+
+registar helicoptero "86-DF-28" 63 (8.6,2.8) empresa "Empresa 26" ;
+
+registar carro "46-JA-79" 72 (4.6,7.9) "Dania_Miranda@outlook.com" ;
+
+registar condutor "Denil_Amaral@mail.google.com" "Denil Amaral" "OAuLnIXqa" "Rua das Papoilas, 2367, 2530-765 Ventosa" 1907-1-12 181 ;
+
+registar condutor "Gino_Barros@mail.google.com" "Gino Barros" "zfzY1tqIA" "Rua da Boa Vista, 1630, 2605-318 Serra de Casal de Cambra" 1939-12-6 239 ;
+
+registar condutor "Elmano_Marques@sapo.pt" "Elmano Marques" "uTZYxxhsR" "Rua Arquiteto Aristeu Ravasio, 2132, 3720-315 Oliveira de Azemeis" 1921-6-1 259 ;
+
+registar mota "18-TO-23" 41 (1.8,2.3) "Ianis_Pereira@mail.google.com" ;
+
+registar mota "89-QM-02" 47 (8.9,0.2) "Leoberto_Fonseca@outlook.com" ;
+
+registar cliente "Holger_Domingues@mail.google.com" "Holger Domingues" "dfcRuTL01" "Transversal a Estrada da Igrejinha 1, 673, 7005-874 evora" 1956-5-28 (25.2,18.2) ;
+
+registar mota "82-VI-84" 55 (8.2,8.4) empresa "Empresa 2" ;
+
+registar carro "86-KC-80" 67 (8.6,8.0) empresa "Empresa 7" ;
+
+registar carrinha "11-IN-86" 80 (1.1,8.6) empresa "Empresa 11" ;
+
+login "Gamaliel_Lourenco@hotmail.com" "c6fexx7Ex" ; 
+solicitar (38.9,31.9) ;
+solicitar (23.8,35.0) ;
+solicitar (47.8,42.1) ;
+solicitar (2.5,40.8) ;
+solicitar (84.8,38.5) ;
+logout ;
+
+login "Ivanoel_Matias@hotmail.com" "1zJNPxjkr" ; 
+solicitar (49.7,95.5) ;
+solicitar (17.7,7.6) ;
+logout ;
+
+registar mota "53-FN-96" 90 (5.3,9.6) "Selene_Ferreira@gmail.com" ;
+
+registar carro "15-VL-56" 80 (1.5,5.6) "Georgina_Pacheco@mail.google.com" ;
+
+login "Igor_Nunes@mail.google.com" "vmk70aCTV" ; 
+solicitar (35.7,44.0) ;
+solicitar (95.1,51.3) ;
+solicitar (91.7,23.9) ;
+solicitar (14.1,2.5) ;
+logout ;
+
+registar condutor "Giana_Guerreiro@mail.google.com" "Giana Guerreiro" "HYpU4fajG" ", 535, 4980-519 Pimenta" 1932-4-16 267 ;
+
+login "Hildegarda_Brito@mail.google.com" "YdTUHBlFP" ;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar condutor "Coralia_Lopes@hotmail.com" "Coralia Lopes" "QRV7X27cv" "Travessa da Juventude Escolar, 2402, 2050-031 Aveiras de Baixo" 1950-2-13 150 ;
+
+registar carro "60-LS-37" 30 (6.0,3.7) "Iberico_Azevedo@outlook.com" ;
+
+login "Giana_Guerreiro@mail.google.com" "HYpU4fajG" ;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+logout ;
+
+login "Damiao_Lima@gmail.com" "0PTCfZVYD" ; 
+solicitar (11.8,75.9) ;
+solicitar (86.3,98.2) ;
+solicitar (15.8,38.7) ;
+solicitar (48.1,59.5) ;
+logout ;
+
+registar mota "94-MP-97" 52 (9.4,9.7) "Denil_Amaral@mail.google.com" ;
+
+registar condutor "Felicissimo_Nogueira@gmail.com" "Felicissimo Nogueira" "a36eNM57K" "Rua do Paco, 2127, 4750-703 Tamel" 2012-10-1 90 ;
+
+registar helicoptero "63-RT-28" 70 (6.3,2.8) "Jamim_Gaspar@mail.google.com" ;
+
+registar condutor "Tadeu_Jesus@sapo.pt" "Tadeu Jesus" "G2EEy9E6Z" "Travessa do Quebra Costas, 2378, 2530-067 Areia Branca" 1917-11-28 328 ;
+
+registar condutor "Acilio_Mota@mail.google.com" "Acilio Mota" "oHwrNiwFc" "Rua dos Arneiros, 1922, 2490-150 Gondemaria" 1998-12-3 135 ;
+
+registar carro "12-PI-84" 84 (1.2,8.4) "Sivio_Andrade@sapo.pt" ;
+
+registar empresa "Empresa 28" "mCxvgmb4q" ;
+
+registar empresa "Empresa 24" "Dtg7YebTd" ;
+
+registar condutor "Carla_Cruz@gmail.com" "Carla Cruz" "d3gskDtuO" "Travessa das Almas, 160, 6120-756 Macao" 2007-5-25 230 ;
+
+registar carrinha "20-EL-19" 38 (2.0,1.9) "Hermiterio_Nunes@hotmail.com" ;
+
+registar carro "91-JP-46" 43 (9.1,4.6) empresa "Empresa 22" ;
+
+registar carro "16-AF-25" 51 (1.6,2.5) empresa "Empresa 27" ;
+
+registar empresa "Empresa 8" "xxa8ixZS9" ;
+
+registar condutor "Aneide_Nunes@mail.google.com" "Aneide Nunes" "lHnXUWtod" "Rua Holbeche Castelo Branco, 444, 2825-335 Costa de Caparica" 1965-10-17 85 ;
+
+registar carrinha "13-HO-51" 62 (1.3,5.1) empresa "Empresa 10" ;
+
+registar condutor "Zubaida_Vicente@mail.google.com" "Zubaida Vicente" "3DFWnH1YD" "Rua da Alegria, 954, 4000-040 Porto" 1966-12-1 92 ;
+
+registar carro "54-AT-10" 51 (5.4,1.0) empresa "Empresa 21" ;
+
+registar carrinha "50-CH-60" 49 (5.0,6.0) "Urbino_Amorim@hotmail.com" ;
+
+registar helicoptero "69-GL-76" 45 (6.9,7.6) empresa "Empresa 11" ;
+
+login "Jesus_Leite@hotmail.com" "JJBuZa01T" ; 
+solicitar (76.8,98.1) ;
+solicitar (73.3,89.0) ;
+solicitar (79.3,51.2) ;
+solicitar (37.5,91.8) ;
+logout ;
+
+login "Lara_Pinho@mail.google.com" "fLcDcI97S" ;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar cliente "Gaele_Antunes@gmail.com" "Gaele Antunes" "cJuM9WnAa" "Rua de Molarinhas, 1642, 4575-104 Boelhe" 1960-6-14 (2.4,57.4) ;
+
+login "elson_Fernandes@outlook.com" "Irbia7ikT" ;
+viajar;
+logout ;
+
+registar condutor "Anania_Amorim@sapo.pt" "Anania Amorim" "yuok9IhCG" "Escadinhas do Poco Novo, 1694, 2950-283 Palmela" 2006-12-31 444 ;
+
+registar mota "29-NW-71" 42 (2.9,7.1) "Porfirio_Matos@hotmail.com" ;
+
+registar empresa "Empresa 26" "YVo8e2xjM" ;
+
+registar condutor "Januario_Matias@outlook.com" "Januario Matias" "SQBydNkuw" "Rua Variante Santa Isabel, 2088, 7630-656 Sao Teotonio" 1908-8-11 196 ;
+
+registar carro "33-CW-73" 41 (3.3,7.3) empresa "Empresa 31" ;
+
+registar cliente "elton_Pacheco@gmail.com" "elton Pacheco" "7kEwUN6GQ" "Rua Fernando Pessoa, 1030, 3720-773 Cucujaes" 1901-4-24 (66.9,24.7) ;
+
+registar helicoptero "21-GQ-64" 63 (2.1,6.4) "Georgina_Pacheco@mail.google.com" ;
+
+registar empresa "Empresa 18" "DEC3i5qZL" ;
+
+registar carro "47-NV-16" 38 (4.7,1.6) "Gileade_Campos@hotmail.com" ;
+
+registar cliente "Zulaia_Alves@hotmail.com" "Zulaia Alves" "HnycORB2F" "Rua D, 43, 2450-115 Nazare" 2012-5-14 (84.8,97.5) ;
+
+registar carro "70-NO-84" 62 (7.0,8.4) "Elmer_Gaspar@mail.google.com" ;
+
+registar mota "63-PI-26" 90 (6.3,2.6) empresa "Empresa 29" ;
+
+login "Urbino_Amorim@hotmail.com" "PYB37NwnQ" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar mota "32-DY-08" 48 (3.2,0.8) "Januario_Matias@outlook.com" ;
+
+registar condutor "Reinaldo_Ramos@mail.google.com" "Reinaldo Ramos" "9aNhHwAl6" "Rua Vieira Gomes, 787, 4700-301 Braga" 1933-10-31 200 ;
+
+registar helicoptero "36-ON-95" 42 (3.6,9.5) empresa "Empresa 5" ;
+
+registar mota "99-KD-87" 84 (9.9,8.7) "Georgina_Pacheco@mail.google.com" ;
+
+login "Aleta_Assuncao@hotmail.com" "oy346SR3Z" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+recusar viagem;
+logout ;
+
+registar cliente "Ilca_Vieira@hotmail.com" "Ilca Vieira" "vyEmSXNX4" "Travessa Doutor Manuel Homem Ferreira, 832, 3850-127 Albergaria-A-Velha" 1980-7-18 (22.7,28.6) ;
+
+registar condutor "Cordelia_Henriques@gmail.com" "Cordelia Henriques" "XEI9na2rT" "Rua Pero Vaz, 337, 4910-604 Vilarelho" 1966-10-27 35 ;
+
+registar condutor "Sebastiana_Magalhaes@gmail.com" "Sebastiana Magalhaes" "isgtrkPsv" "Rua O Emigrante, 1290, 8150-133 Sao Bras de Alportel" 1935-7-29 41 ;
+
+registar carro "58-RW-07" 77 (5.8,0.7) empresa "Empresa 15" ;
+
+registar mota "40-CK-97" 64 (4.0,9.7) "Cildo_Loureiro@gmail.com" ;
+
+registar cliente "Chantal_Anjos@gmail.com" "Chantal Anjos" "8uyaZE97o" "Rua do Goncalinho, 893, 3500-137 Viseu" 1928-7-6 (81.2,35.0) ;
+
+registar helicoptero "50-KY-84" 68 (5.0,8.4) "Jetro_Guerreiro@hotmail.com" ;
+
+registar carrinha "21-LZ-45" 32 (2.1,4.5) "Quiterio_Rocha@gmail.com" ;
+
+registar empresa "Empresa 35" "XlRcOPpSN" ;
+
+login "Ovidio_Barbosa@hotmail.com" "hvxgqhN2m" ; 
+solicitar (96.9,100.1) ;
+solicitar (6.7,5.8) ;
+solicitar (64.3,26.7) ;
+logout ;
+
+login "Zulaia_Alves@hotmail.com" "HnycORB2F" ; 
+solicitar (56.6,80.9) ;
+solicitar (81.3,68.9) ;
+solicitar (86.8,10.5) ;
+solicitar (2.5,5.5) ;
+solicitar (28.7,77.7) ;
+logout ;
+
+login "Consolacao_Gaspar@outlook.com" "lOcp9ARCt" ; 
+solicitar (29.0,60.3) ;
+logout ;
+
+registar carro "45-NT-56" 47 (4.5,5.6) "Juvenal_Moreira@gmail.com" ;
+
+login "Gamaliel_Lourenco@hotmail.com" "c6fexx7Ex" ; 
+solicitar (80.8,39.1) ;
+logout ;
+
+registar carrinha "73-RZ-95" 88 (7.3,9.5) "Januario_Matias@outlook.com" ;
+
+login "Ianis_Pereira@mail.google.com" "8aFS176xk" ;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar condutor "Danila_Esteves@mail.google.com" "Danila Esteves" "byMovPfru" "Avenida Antonio Jose de Almeida, 2315, 1000-042 Lisboa" 1986-4-20 109 ;
+
+registar cliente "Claudiano_Pereira@mail.google.com" "Claudiano Pereira" "t9E4Fuy36" ", 2448, 4960-010 Troias" 1984-4-15 (10.7,26.7) ;
+
+registar empresa "Empresa 26" "FEmMfKaiU" ;
+
+registar carro "22-ML-08" 82 (2.2,0.8) "Anabela_Figueiredo@mail.google.com" ;
+
+login "Quiterio_Rocha@gmail.com" "TKezGnGKD" ;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+recusar viagem;
+recusar viagem;
+logout ;
+
+registar carrinha "37-HF-68" 81 (3.7,6.8) empresa "Empresa 17" ;
+
+registar cliente "Domitilia_Carneiro@sapo.pt" "Domitilia Carneiro" "ZWEKHC5uk" "Beco Lombo Boa Vista, 2023, 9060-172 Funchal" 1938-4-6 (51.4,18.5) ;
+
+login "Gino_Barros@mail.google.com" "zfzY1tqIA" ;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar mota "89-TJ-59" 31 (8.9,5.9) "Zubaida_Vicente@mail.google.com" ;
+
+registar mota "49-XT-03" 35 (4.9,0.3) empresa "Empresa 3" ;
+
+registar carrinha "00-ZV-44" 30 (0.0,4.4) empresa "Empresa 27" ;
+
+registar carrinha "66-TS-13" 52 (6.6,1.3) "Judas_Paiva@gmail.com" ;
+
+login "Anabela_Figueiredo@mail.google.com" "ACzPEchqh" ;
+viajar;
+viajar;
+logout ;
+
+registar carro "15-CL-00" 75 (1.5,0.0) empresa "Empresa 28" ;
+
+registar condutor "Andrea_Torres@outlook.com" "Andrea Torres" "66j3AVanf" "Rua Fernando Isaac Cardoso, 1817, 6420-210 Trancoso" 1954-1-7 428 ;
+
+login "Gracia_Gaspar@hotmail.com" "14pDAmaBJ" ;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar carro "02-QK-87" 90 (0.2,8.7) "Reinaldo_Ramos@mail.google.com" ;
+
+registar empresa "Empresa 1" "KOnLaOPLL" ;
+
+registar cliente "Cosete_Lima@outlook.com" "Cosete Lima" "s1y7tBtCF" "Rua Padre Manuel Alaio, 1782, 4710-414 Braga" 1994-4-9 (14.0,45.6) ;
+
+registar cliente "Herman_Faria@hotmail.com" "Herman Faria" "XaGBHOoNq" "Rua Covas, 2093, 4785-616 Santiago do Bougado" 1926-2-2 (44.3,19.1) ;
+
+registar cliente "Josiane_Brito@sapo.pt" "Josiane Brito" "by2VGije9" ", 1049, 7480-250 Escola Rural" 1917-6-23 (99.8,43.9) ;
+
+registar helicoptero "24-KR-10" 57 (2.4,1.0) empresa "Empresa 16" ;
+
+registar helicoptero "66-VN-20" 65 (6.6,2.0) empresa "Empresa 2" ;
+
+registar carrinha "62-MG-19" 54 (6.2,1.9) empresa "Empresa 16" ;
+
+registar carrinha "96-NP-23" 77 (9.6,2.3) empresa "Empresa 23" ;
+
+registar helicoptero "04-CK-66" 49 (0.4,6.6) "elson_Fernandes@outlook.com" ;
+
+registar carrinha "42-DP-54" 36 (4.2,5.4) "Ferdinando_Nogueira@outlook.com" ;
+
+registar carrinha "72-OM-79" 90 (7.2,7.9) empresa "Empresa 8" ;
+
+registar carro "77-UL-26" 78 (7.7,2.6) empresa "Empresa 11" ;
+
+login "Fulvio_Pires@mail.google.com" "2lxSq3eAf" ; 
+solicitar (10.3,95.4) ;
+solicitar (25.1,84.2) ;
+solicitar (33.1,91.9) ;
+logout ;
+
+registar carro "27-TL-66" 55 (2.7,6.6) "Elmano_Marques@sapo.pt" ;
+
+registar cliente "SalvadordeJesus_Lopes@gmail.com" "SalvadordeJesus Lopes" "qZgT0PFKk" "Rua da Restauracao, 623, 7100-640 Espinheiro" 1989-8-21 (53.3,56.3) ;
+
+registar condutor "Artemisa_Faria@hotmail.com" "Artemisa Faria" "WCAmBalvk" "Rua Alferes Duarte de Almeida, 79, 5450-045 Barreiras" 1926-7-11 306 ;
+
+registar cliente "Benilde_Ferreira@gmail.com" "Benilde Ferreira" "U6HD8QyXO" "Escadas do Calafate, 1170, 3140-211 Montemor-o-Velho" 1956-12-4 (79.7,6.0) ;
+
+registar carrinha "96-AJ-93" 58 (9.6,9.3) empresa "Empresa 8" ;
+
+registar mota "18-DX-72" 59 (1.8,7.2) empresa "Empresa 29" ;
+
+registar cliente "Elza_Esteves@outlook.com" "Elza Esteves" "I9lKoe9l6" "Praceta Padre Arnaldo Duarte, 644, 4465-581 Leca do Balio" 1901-8-12 (9.0,52.3) ;
+
+registar carro "23-CF-81" 74 (2.3,8.1) "Coralia_Lopes@hotmail.com" ;
+
+login "Hortense_Mota@gmail.com" "6kOlffZBA" ;
+recusar viagem;
+logout ;
+
+login "Delfino_Simoes@hotmail.com" "RKFB2rdiW" ; 
+solicitar (52.6,33.7) ;
+solicitar (44.1,95.4) ;
+logout ;
+
+registar carrinha "04-KH-41" 68 (0.4,4.1) empresa "Empresa 26" ;
+
+registar mota "21-WQ-30" 51 (2.1,3.0) empresa "Empresa 11" ;
+
+login "Ianis_Pereira@mail.google.com" "8aFS176xk" ;
+viajar;
+viajar;
+logout ;
+
+registar mota "43-YW-65" 53 (4.3,6.5) "Ianis_Pereira@mail.google.com" ;
+
+login "Belchior_Melo@outlook.com" "kSJ2YY9Oc" ; 
+solicitar (58.1,5.6) ;
+solicitar (56.2,45.5) ;
+logout ;
+
+registar cliente "Zila_Coelho@gmail.com" "Zila Coelho" "ZHvAtut7a" "Rua das Dalias, 292, 2040-103 Freiria" 2005-12-25 (86.1,18.9) ;
+
+registar carro "58-BV-74" 51 (5.8,7.4) empresa "Empresa 29" ;
+
+login "Cordelia_Henriques@gmail.com" "XEI9na2rT" ;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+recusar viagem;
+recusar viagem;
+recusar viagem;
+logout ;
+
+registar helicoptero "45-YC-29" 90 (4.5,2.9) "Sivio_Andrade@sapo.pt" ;
+
+registar cliente "Priao_Raposo@sapo.pt" "Priao Raposo" "Ycj4rkw25" "Beco da Calcada, 1657, 5110-455 Queimadela" 1939-12-29 (58.5,36.8) ;
+
+registar mota "65-HK-72" 78 (6.5,7.2) "Angel_Amorim@hotmail.com" ;
+
+registar carrinha "07-QU-70" 65 (0.7,7.0) "Judas_Paiva@gmail.com" ;
+
+registar helicoptero "23-OU-12" 34 (2.3,1.2) empresa "Empresa 23" ;
+
+login "Levina_Machado@outlook.com" "5eDZx94vN" ; 
+solicitar (19.8,55.2) ;
+solicitar (88.5,92.2) ;
+logout ;
+
+registar carrinha "03-WZ-61" 47 (0.3,6.1) "Tadeu_Jesus@sapo.pt" ;
+
+login "Camila_Pires@mail.google.com" "i7woRPEZy" ; 
+solicitar (16.0,54.1) ;
+solicitar (22.5,61.8) ;
+solicitar (11.6,28.9) ;
+solicitar (19.4,93.4) ;
+logout ;
+
+registar carrinha "26-IJ-56" 58 (2.6,5.6) empresa "Empresa 22" ;
+
+registar helicoptero "06-SG-22" 55 (0.6,2.2) empresa "Empresa 17" ;
+
+registar carro "78-YD-93" 65 (7.8,9.3) "Zubaida_Vicente@mail.google.com" ;
+
+registar condutor "Eloa_Cruz@hotmail.com" "Eloa Cruz" "e50G7Twi8" "Rua Padre Leite Morais, 1675, 4490-671 Povoa de Varzim" 1996-2-26 68 ;
+
+registar carro "79-MM-66" 37 (7.9,6.6) "Elias_Nascimento@sapo.pt" ;
+
+registar carrinha "90-LM-66" 31 (9.0,6.6) empresa "Empresa 22" ;
+
+login "Mem_Carvalho@gmail.com" "OymovThsd" ; 
+solicitar (86.7,68.0) ;
+logout ;
+
+registar cliente "Euridice_Simoes@mail.google.com" "Euridice Simoes" "c1UnvsPpT" ", 1271, 6230-120 Quinta do Emeli" 2016-8-15 (94.9,81.6) ;
+
+registar helicoptero "43-XF-18" 39 (4.3,1.8) empresa "Empresa 15" ;
+
+registar cliente "Josafat_Pinho@gmail.com" "Josafat Pinho" "SB5TRpUeo" "Rua Padre Luis Antonio da Cruz, 1210, 7090-284 Viana do Alentejo" 1982-3-17 (99.6,65.9) ;
+
+registar helicoptero "33-NU-12" 51 (3.3,1.2) empresa "Empresa 16" ;
+
+login "Cordelia_Henriques@gmail.com" "XEI9na2rT" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar mota "95-MA-37" 68 (9.5,3.7) empresa "Empresa 12" ;
+
+registar empresa "Empresa 30" "mJRpNiel6" ;
+
+registar helicoptero "45-GY-01" 61 (4.5,0.1) "Iberico_Azevedo@outlook.com" ;
+
+login "Cristoforo_Vicente@outlook.com" "UpedptpD7" ;
+viajar;
+viajar;
+logout ;
+
+registar condutor "Talia_Nunes@sapo.pt" "Talia Nunes" "eIErbQzjm" "Travessa das Begonias, 410, 2865-349 Pinhal General" 2002-10-27 464 ;
+
+registar condutor "Donzelia_Ferreira@outlook.com" "Donzelia Ferreira" "1UFAEV8kc" "Rua Joao Graca Barreto, 2374, 1950-149 Lisboa" 1908-3-24 221 ;
+
+registar carrinha "68-BF-43" 74 (6.8,4.3) "Ilse_Assuncao@mail.google.com" ;
+
+registar cliente "Laurinda_Garcia@hotmail.com" "Laurinda Garcia" "kHRiznZlI" "Rua Padre Antonio Joaquim Vigario Matos, 1395, 3860-485 Pardilho" 1986-3-11 (33.4,31.2) ;
+
+login "Talia_Nunes@sapo.pt" "eIErbQzjm" ;
+viajar;
+viajar;
+logout ;
+
+registar cliente "Urias_Morais@outlook.com" "Urias Morais" "XlICoZSRh" "Rua dos Reis Magos, 1242, 9125-024 Canico" 1969-6-4 (57.8,14.7) ;
+
+registar helicoptero "39-HS-20" 75 (3.9,2.0) empresa "Empresa 21" ;
+
+registar mota "39-WN-98" 60 (3.9,9.8) "Sivio_Andrade@sapo.pt" ;
+
+registar condutor "Miriam_Machado@hotmail.com" "Miriam Machado" "geWi6V8GJ" "Travessa de Moscoso, 901, 4415-842 Sandim" 1985-7-5 360 ;
+
+login "Hortense_Mota@gmail.com" "6kOlffZBA" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar helicoptero "54-DR-90" 72 (5.4,9.0) "Artemisa_Faria@hotmail.com" ;
+
+login "Anaim_Campos@sapo.pt" "XfopExwoj" ;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar condutor "Ava_Paiva@mail.google.com" "Ava Paiva" "uNLgoS5He" ", 1157, 4850-222 Carreira" 1968-3-4 54 ;
+
+registar mota "19-MU-44" 60 (1.9,4.4) empresa "Empresa 0" ;
+
+registar cliente "Karina_Anjos@hotmail.com" "Karina Anjos" "iZdFmIpnT" "Rua da Fonte, 679, 4595-154 Frazao" 1951-3-20 (99.9,85.6) ;
+
+registar mota "00-DL-14" 42 (0.0,1.4) empresa "Empresa 34" ;
+
+registar condutor "Florencia_Matias@sapo.pt" "Florencia Matias" "co81QvKf9" ", 1685, 5160-202 Prado de Cima" 1979-7-3 247 ;
+
+registar cliente "Firmo_Domingues@outlook.com" "Firmo Domingues" "V1TngPq9d" "Travessa de Quartinos, 1021, 6160-024 alvaro" 1921-6-2 (70.3,93.0) ;
+
+login "Porfirio_Matos@hotmail.com" "dyAKNolMQ" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+logout ;
+
+registar carrinha "52-ZF-12" 30 (5.2,1.2) "Selene_Ferreira@gmail.com" ;
+
+registar cliente "Lana_Raposo@gmail.com" "Lana Raposo" "MmjjrveF8" "Rua Antonio Giao, 759, 2829-513 Monte de Caparica" 1928-6-10 (17.6,30.0) ;
+
+login "Judas_Paiva@gmail.com" "QmRBzctCT" ;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar carro "58-RQ-28" 36 (5.8,2.8) empresa "Empresa 4" ;
+
+registar carro "50-OP-34" 68 (5.0,3.4) empresa "Empresa 35" ;
+
+registar carrinha "05-JO-35" 53 (0.5,3.5) "Jamim_Gaspar@mail.google.com" ;
+
+registar carrinha "74-MJ-39" 81 (7.4,3.9) empresa "Empresa 25" ;
+
+registar condutor "Dorino_Jesus@mail.google.com" "Dorino Jesus" "SIzCqjEet" "Rua Romana, 42, 4535-106 Lourosa" 1925-11-30 299 ;
+
+login "Hildegarda_Brito@mail.google.com" "YdTUHBlFP" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Elza_Esteves@outlook.com" "I9lKoe9l6" ; 
+solicitar (2.0,93.3) ;
+solicitar (47.5,64.5) ;
+solicitar (36.3,46.5) ;
+solicitar (28.8,55.5) ;
+solicitar (39.8,9.6) ;
+logout ;
+
+registar empresa "Empresa 0" "wy0RjouvC" ;
+
+registar helicoptero "50-NF-76" 48 (5.0,7.6) "Deivid_Carvalho@gmail.com" ;
+
+registar cliente "Edmur_Vieira@mail.google.com" "Edmur Vieira" "8fMKln6S6" "Rua das Flores, 715, 4585-900 Recarei" 1938-2-19 (70.6,68.4) ;
+
+registar carrinha "32-HF-31" 31 (3.2,3.1) empresa "Empresa 6" ;
+
+registar helicoptero "02-SR-28" 52 (0.2,2.8) empresa "Empresa 17" ;
+
+registar carrinha "78-QJ-38" 38 (7.8,3.8) empresa "Empresa 32" ;
+
+login "Ava_Paiva@mail.google.com" "uNLgoS5He" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar cliente "Amor_Anjos@gmail.com" "Amor Anjos" "xQPoE5VDr" "Rua Maria Gil, 425, 4630-297 Marco de Canaveses" 1952-1-19 (27.5,56.8) ;
+
+registar condutor "Joni_Amaral@outlook.com" "Joni Amaral" "HW15txmUb" "Rua Vasco Lima Couto, 101, 4440-706 Valongo" 1986-6-1 499 ;
+
+registar empresa "Empresa 20" "Sn4Jmhwqs" ;
+
+registar empresa "Empresa 4" "gmBtFKtLe" ;
+
+registar carro "96-VX-45" 80 (9.6,4.5) "Coralia_Lopes@hotmail.com" ;
+
+registar mota "36-WJ-92" 34 (3.6,9.2) empresa "Empresa 29" ;
+
+login "Leolina_Teixeira@hotmail.com" "yjhk0deMY" ; 
+solicitar (21.3,35.4) ;
+solicitar (89.9,96.5) ;
+solicitar (53.7,18.4) ;
+solicitar (72.6,69.2) ;
+solicitar (38.8,18.6) ;
+logout ;
+
+registar condutor "Josias_Gomes@sapo.pt" "Josias Gomes" "A4yC4JTeg" "Largo dos Prudencios, 199, 2560-241 Torres Vedras" 1963-8-3 98 ;
+
+login "Alipio_Leal@mail.google.com" "7SKecQKQp" ; 
+solicitar (8.4,29.8) ;
+logout ;
+
+registar cliente "Leo_Cruz@mail.google.com" "Leo Cruz" "grHqhg1es" "Rua das Cortes, 868, 4805-251 Ponte" 1967-6-27 (100.9,93.5) ;
+
+registar carro "85-PC-21" 33 (8.5,2.1) "Anaim_Campos@sapo.pt" ;
+
+registar helicoptero "17-RX-71" 87 (1.7,7.1) "Danila_Esteves@mail.google.com" ;
+
+registar cliente "Adriel_Monteiro@gmail.com" "Adriel Monteiro" "wdT6vfMJG" "Rua Florido Toscano, 809, 3070-324 Mira" 1961-7-26 (57.2,4.9) ;
+
+login "Gino_Barros@mail.google.com" "zfzY1tqIA" ;
+viajar;
+logout ;
+
+login "Anaim_Campos@sapo.pt" "XfopExwoj" ;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Alipio_Loureiro@mail.google.com" "l9f9FVQyR" ; 
+solicitar (1.7,52.6) ;
+logout ;
+
+login "Chantal_Anjos@gmail.com" "8uyaZE97o" ; 
+solicitar (69.3,95.1) ;
+solicitar (51.3,88.8) ;
+logout ;
+
+registar carro "46-DC-28" 84 (4.6,2.8) empresa "Empresa 7" ;
+
+login "Cosete_Lima@outlook.com" "s1y7tBtCF" ; 
+solicitar (93.2,13.2) ;
+logout ;
+
+registar cliente "Zara_Gaspar@gmail.com" "Zara Gaspar" "zQN3n1p1X" "Rua do Frade, 1035, 2205-995 Pego" 2007-1-31 (71.1,51.4) ;
+
+registar mota "55-JV-71" 88 (5.5,7.1) "Lara_Pinho@mail.google.com" ;
+
+login "Jesus_Leite@hotmail.com" "JJBuZa01T" ; 
+solicitar (71.9,49.9) ;
+solicitar (50.7,71.2) ;
+solicitar (33.5,98.6) ;
+logout ;
+
+registar condutor "Silvestre_Carvalho@hotmail.com" "Silvestre Carvalho" "GR1jNex8L" "Rua dos Valinhos, 1843, 2495-301 Fatima" 1910-9-29 50 ;
+
+registar condutor "Xerxes_Mota@mail.google.com" "Xerxes Mota" "1QlXon6p1" "Travessa de Quinta Amarela, 72, 4415-308 Pedroso" 1932-11-2 256 ;
+
+registar mota "96-KY-84" 85 (9.6,8.4) empresa "Empresa 38" ;
+
+registar carrinha "21-EI-53" 79 (2.1,5.3) "Hildebrando_Marques@sapo.pt" ;
+
+registar cliente "Didaco_Correia@gmail.com" "Didaco Correia" "L7L1ML63E" "Rua das Quebradas, 2456, 2410-497 Touria" 1950-8-16 (6.3,14.8) ;
+
+registar cliente "Daniela_Barros@gmail.com" "Daniela Barros" "qDapeygff" "Travessa da Feitelha, 1116, 4740-449 Ponte" 1974-12-22 (42.6,81.3) ;
+
+registar cliente "Turgo_Moura@outlook.com" "Turgo Moura" "sC5IMye0b" "Rua 9, 2446, 4150-533 Porto" 1933-1-6 (89.9,90.7) ;
+
+registar helicoptero "40-MM-60" 63 (4.0,6.0) "Jamim_Gaspar@mail.google.com" ;
+
+registar condutor "Clorindo_Moura@mail.google.com" "Clorindo Moura" "F1voYZV6B" "Rua do Castelo, 234, 2500-681 Salir do Porto" 2003-10-15 21 ;
+
+registar mota "82-WP-12" 56 (8.2,1.2) "Eduartino_Faria@hotmail.com" ;
+
+login "Ivanoel_Matias@hotmail.com" "1zJNPxjkr" ; 
+solicitar (79.4,33.1) ;
+solicitar (75.9,27.0) ;
+solicitar (71.8,71.9) ;
+logout ;
+
+login "Dinarda_Soares@mail.google.com" "YpTAqL9Z5" ; 
+solicitar (28.2,82.4) ;
+solicitar (19.6,29.7) ;
+solicitar (80.9,93.1) ;
+logout ;
+
+registar mota "65-MY-01" 80 (6.5,0.1) empresa "Empresa 24" ;
+
+registar carro "81-WJ-38" 32 (8.1,3.8) "Gervasio_Neves@mail.google.com" ;
+
+registar cliente "Anicia_Neto@hotmail.com" "Anicia Neto" "6iTKClP0L" "Rua Visconde de Sao Joao da Madeira, 683, 3700-269 Sao Joao da Madeira" 1955-4-13 (24.3,25.8) ;
+
+registar carro "60-LM-41" 60 (6.0,4.1) empresa "Empresa 28" ;
+
+registar carrinha "40-JV-16" 42 (4.0,1.6) "Dorino_Jesus@mail.google.com" ;
+
+login "Hildegarda_Brito@mail.google.com" "YdTUHBlFP" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar carrinha "18-DN-53" 51 (1.8,5.3) empresa "Empresa 13" ;
+
+registar empresa "Empresa 24" "VSsV0AUot" ;
+
+registar mota "28-JJ-39" 53 (2.8,3.9) "Celio_Martins@mail.google.com" ;
+
+registar cliente "Giana_Baptista@sapo.pt" "Giana Baptista" "b8DlSOB4k" "Sem Nome, 164, 2860-104 Alhos Vedros" 1947-7-29 (34.0,65.0) ;
+
+registar condutor "Alicia_Jesus@sapo.pt" "Alicia Jesus" "xrLYrfLeL" "Rua Monte do Cadavao, 1431, 4405-801 Vila Nova de Gaia" 1982-8-25 248 ;
+
+registar mota "80-YX-41" 85 (8.0,4.1) empresa "Empresa 15" ;
+
+registar mota "76-GM-48" 84 (7.6,4.8) empresa "Empresa 41" ;
+
+login "Firmo_Domingues@outlook.com" "V1TngPq9d" ; 
+solicitar (53.7,56.1) ;
+solicitar (16.7,64.4) ;
+solicitar (97.0,60.2) ;
+solicitar (57.7,70.1) ;
+logout ;
+
+registar carrinha "93-XV-17" 78 (9.3,1.7) "Elmer_Gaspar@mail.google.com" ;
+
+registar cliente "Simao_Ferreira@outlook.com" "Simao Ferreira" "l8x0ZwVlJ" "Beco da Fragata (Nascente), 1032, 5385-101 Torre Dona Chama" 2001-8-28 (56.7,18.1) ;
+
+registar condutor "Alitio_Sa@hotmail.com" "Alitio Sa" "ky5sGyKqZ" "Rua da Austria, 103, 8125-445 Vilamoura" 1931-6-4 164 ;
+
+registar carrinha "24-YT-98" 88 (2.4,9.8) empresa "Empresa 12" ;
+
+registar condutor "Parcidio_Carneiro@gmail.com" "Parcidio Carneiro" "jIxU7GF72" "Quinta da Tapada, 2478, 3505-638 Viseu" 1931-10-14 52 ;
+
+login "Gileade_Campos@hotmail.com" "bkngqyeqT" ;
+viajar;
+logout ;
+
+login "Damiao_Lima@gmail.com" "0PTCfZVYD" ; 
+solicitar (40.7,37.4) ;
+solicitar (31.2,50.2) ;
+solicitar (41.2,74.5) ;
+solicitar (38.6,39.2) ;
+solicitar (74.6,50.8) ;
+logout ;
+
+registar empresa "Empresa 28" "Y77QheOEu" ;
+
+registar carrinha "33-NR-48" 56 (3.3,4.8) "Vestina_Pinheiro@gmail.com" ;
+
+registar condutor "Salete_Lima@sapo.pt" "Salete Lima" "dhV4cSkVd" "Caminho dos Moinhos de Cima, 670, 6200-144 Covilha" 1948-8-28 324 ;
+
+registar helicoptero "42-SB-46" 32 (4.2,4.6) "Felicissimo_Nogueira@gmail.com" ;
+
+login "Andrea_Torres@outlook.com" "66j3AVanf" ;
+viajar;
+viajar;
+logout ;
+
+login "Donato_Moura@outlook.com" "PTnQnC2kl" ; 
+solicitar (73.3,56.4) ;
+logout ;
+
+registar helicoptero "71-ZB-33" 54 (7.1,3.3) empresa "Empresa 35" ;
+
+login "Jetro_Guerreiro@hotmail.com" "mOZfd32bR" ;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar empresa "Empresa 21" "dZGd8Wiji" ;
+
+registar mota "21-KG-42" 76 (2.1,4.2) empresa "Empresa 42" ;
+
+login "Giana_Guerreiro@mail.google.com" "HYpU4fajG" ;
+viajar;
+recusar viagem;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar condutor "Benicio_Melo@sapo.pt" "Benicio Melo" "2h9Ox4PC3" "Arco do Miradeiro, 510, 7350-046 Elvas" 1972-11-13 62 ;
+
+registar carro "10-UO-42" 83 (1.0,4.2) "Iberico_Azevedo@outlook.com" ;
+
+registar mota "71-QZ-88" 61 (7.1,8.8) empresa "Empresa 28" ;
+
+registar empresa "Empresa 26" "TLGH6tQ1n" ;
+
+registar condutor "Amauri_Alves@hotmail.com" "Amauri Alves" "QjX6KDMlI" "Rua Diamantino Alves da Costa, 115, 6200-803 Covilha" 1923-4-18 478 ;
+
+registar mota "86-CE-82" 36 (8.6,8.2) empresa "Empresa 37" ;
+
+registar helicoptero "30-PM-44" 32 (3.0,4.4) "Reinaldo_Ramos@mail.google.com" ;
+
+login "Karina_Anjos@hotmail.com" "iZdFmIpnT" ; 
+solicitar (89.5,52.2) ;
+solicitar (80.7,34.5) ;
+solicitar (15.3,6.3) ;
+logout ;
+
+registar helicoptero "26-AY-07" 53 (2.6,0.7) "Cidalisa_Gaspar@gmail.com" ;
+
+registar cliente "Joscelino_Paiva@hotmail.com" "Joscelino Paiva" "cNHYIu2o0" "Praceta Cidade de evora, 499, 2785-686 Zambujal" 1951-3-16 (5.2,40.5) ;
+
+login "Celio_Martins@mail.google.com" "3aNENTsMd" ;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+logout ;
+
+registar mota "92-PG-60" 58 (9.2,6.0) empresa "Empresa 15" ;
+
+registar helicoptero "23-BV-04" 71 (2.3,0.4) empresa "Empresa 24" ;
+
+registar mota "85-TE-72" 67 (8.5,7.2) "Aleta_Assuncao@hotmail.com" ;
+
+registar mota "19-AE-13" 88 (1.9,1.3) empresa "Empresa 36" ;
+
+registar cliente "Sarai_Maia@outlook.com" "Sarai Maia" "VLH83RINI" "Travessa Professor Domingos Henriques Ferreira, 613, 4505-646 Sanguedo" 1902-12-1 (46.0,5.2) ;
+
+registar cliente "Denisa_Pacheco@gmail.com" "Denisa Pacheco" "UHPzY1bHp" ", 570, 9580-109 Outeiro" 1983-7-8 (42.8,13.2) ;
+
+registar condutor "Salemo_Borges@hotmail.com" "Salemo Borges" "ufJbYvVOH" "Travessa Boa Vista, 2074, 8950-146 Castro Marim" 1916-10-10 397 ;
+
+registar mota "45-EG-76" 81 (4.5,7.6) empresa "Empresa 31" ;
+
+registar empresa "Empresa 35" "Zf8HzwSII" ;
+
+registar carrinha "15-ER-72" 60 (1.5,7.2) "Ilse_Assuncao@mail.google.com" ;
+
+login "Januario_Matias@outlook.com" "SQBydNkuw" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Cristoforo_Vicente@outlook.com" "UpedptpD7" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar carrinha "57-SV-82" 33 (5.7,8.2) "Salete_Lima@sapo.pt" ;
+
+registar carro "23-PB-78" 78 (2.3,7.8) "Jociano_Barros@gmail.com" ;
+
+registar carrinha "82-OA-44" 59 (8.2,4.4) empresa "Empresa 38" ;
+
+registar carro "83-DX-67" 73 (8.3,6.7) "Salete_Lima@sapo.pt" ;
+
+registar empresa "Empresa 25" "ubvHQq12S" ;
+
+registar carrinha "36-LQ-30" 77 (3.6,3.0) "Jetro_Guerreiro@hotmail.com" ;
+
+registar carrinha "88-PE-57" 70 (8.8,5.7) "Coralia_Lopes@hotmail.com" ;
+
+registar condutor "Tiana_Barros@outlook.com" "Tiana Barros" "lyuPqQEEN" "Rua da Ermida, 1488, 7200-120 Sao Pedro do Corval" 1963-1-13 486 ;
+
+registar helicoptero "37-ZA-99" 79 (3.7,9.9) empresa "Empresa 8" ;
+
+registar carro "23-LJ-88" 71 (2.3,8.8) "Hildegarda_Brito@mail.google.com" ;
+
+registar helicoptero "27-IR-38" 75 (2.7,3.8) empresa "Empresa 2" ;
+
+registar mota "38-QV-93" 34 (3.8,9.3) empresa "Empresa 6" ;
+
+registar mota "58-NQ-58" 33 (5.8,5.8) empresa "Empresa 31" ;
+
+login "Amelina_Ferreira@hotmail.com" "l71IPkAs4" ; 
+solicitar (85.5,45.6) ;
+solicitar (11.0,6.5) ;
+logout ;
+
+login "Herman_Faria@hotmail.com" "XaGBHOoNq" ; 
+solicitar (32.8,54.9) ;
+solicitar (99.6,47.3) ;
+solicitar (66.0,55.9) ;
+logout ;
+
+registar helicoptero "57-WW-43" 63 (5.7,4.3) "Aleta_Assuncao@hotmail.com" ;
+
+login "Ivanoel_Matias@hotmail.com" "1zJNPxjkr" ; 
+solicitar (21.5,71.3) ;
+solicitar (99.7,70.2) ;
+solicitar (13.5,66.6) ;
+logout ;
+
+login "Donato_Moura@outlook.com" "PTnQnC2kl" ; 
+solicitar (17.5,9.3) ;
+solicitar (28.7,42.4) ;
+solicitar (42.8,24.1) ;
+solicitar (67.7,68.9) ;
+solicitar (6.1,88.8) ;
+logout ;
+
+login "Bruce_Cardoso@outlook.com" "A0Kph0XYg" ; 
+solicitar (98.4,13.6) ;
+solicitar (17.0,83.6) ;
+solicitar (62.8,95.8) ;
+solicitar (14.6,83.7) ;
+logout ;
+
+registar carro "85-KF-21" 79 (8.5,2.1) empresa "Empresa 24" ;
+
+registar mota "87-WA-88" 76 (8.7,8.8) empresa "Empresa 3" ;
+
+registar empresa "Empresa 5" "lmFrxaKy6" ;
+
+registar mota "04-GC-86" 34 (0.4,8.6) "Judas_Paiva@gmail.com" ;
+
+login "Zacarias_Branco@outlook.com" "s2gkx0imK" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Amelina_Ferreira@hotmail.com" "l71IPkAs4" ; 
+solicitar (57.0,89.8) ;
+solicitar (27.1,14.0) ;
+solicitar (9.8,54.4) ;
+solicitar (64.3,18.6) ;
+logout ;
+
+login "Adriel_Monteiro@gmail.com" "wdT6vfMJG" ; 
+solicitar (44.8,62.2) ;
+solicitar (51.0,37.8) ;
+solicitar (100.5,85.9) ;
+solicitar (21.1,95.3) ;
+logout ;
+
+registar carro "94-HA-31" 63 (9.4,3.1) empresa "Empresa 42" ;
+
+registar helicoptero "73-UV-62" 83 (7.3,6.2) empresa "Empresa 37" ;
+
+login "Eliab_Gaspar@sapo.pt" "tNMhGwEtk" ; 
+solicitar (16.9,30.6) ;
+logout ;
+
+registar condutor "Aniana_Henriques@hotmail.com" "Aniana Henriques" "ZuuX7IhAi" ", 1977, 2665-013 Casal da Cerca" 1968-11-24 171 ;
+
+registar helicoptero "22-VD-55" 69 (2.2,5.5) empresa "Empresa 47" ;
+
+registar mota "15-HZ-23" 64 (1.5,2.3) empresa "Empresa 15" ;
+
+registar mota "01-SR-63" 39 (0.1,6.3) "Elias_Nascimento@sapo.pt" ;
+
+registar carro "03-YO-58" 39 (0.3,5.8) empresa "Empresa 25" ;
+
+login "Elza_Esteves@outlook.com" "I9lKoe9l6" ; 
+solicitar (17.9,25.5) ;
+solicitar (63.2,53.3) ;
+solicitar (75.5,78.9) ;
+solicitar (37.1,12.4) ;
+solicitar (41.8,62.2) ;
+logout ;
+
+registar mota "29-XA-54" 66 (2.9,5.4) "Ireneia_Raposo@sapo.pt" ;
+
+registar condutor "Katarina_Anjos@outlook.com" "Katarina Anjos" "46DGERRgU" "Rua Sao Sebastiao, 516, 3600-598 Reriz" 1963-4-31 246 ;
+
+registar cliente "Homero_Fernandes@mail.google.com" "Homero Fernandes" "iYSs6QzgD" ", 913, 8550-315 Monte Novo" 1992-2-26 (2.4,2.3) ;
+
+registar carro "20-OD-90" 31 (2.0,9.0) empresa "Empresa 44" ;
+
+registar mota "72-ME-32" 31 (7.2,3.2) empresa "Empresa 48" ;
+
+login "Alipio_Loureiro@mail.google.com" "l9f9FVQyR" ; 
+solicitar (78.6,72.8) ;
+solicitar (74.3,92.5) ;
+solicitar (55.8,63.8) ;
+solicitar (47.4,2.1) ;
+solicitar (74.4,10.2) ;
+logout ;
+
+registar condutor "Silviana_Valente@hotmail.com" "Silviana Valente" "6Ltd44CMh" "Rua Fundo Povo, 544, 6215-246 Erada" 1974-10-23 329 ;
+
+registar mota "30-JQ-39" 52 (3.0,3.9) empresa "Empresa 47" ;
+
+registar carro "09-HY-15" 87 (0.9,1.5) empresa "Empresa 48" ;
+
+login "Libia_Araujo@sapo.pt" "4lZDjXc7h" ; 
+solicitar (66.8,7.3) ;
+logout ;
+
+login "Cosete_Lima@outlook.com" "s1y7tBtCF" ; 
+solicitar (96.4,47.4) ;
+solicitar (70.1,26.6) ;
+solicitar (38.9,30.7) ;
+solicitar (40.7,77.5) ;
+solicitar (44.1,96.5) ;
+logout ;
+
+login "Tiana_Barros@outlook.com" "lyuPqQEEN" ;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+logout ;
+
+registar empresa "Empresa 49" "UmbQvKSkv" ;
+
+login "Cildo_Loureiro@gmail.com" "FOJ7TjWKa" ;
+viajar;
+logout ;
+
+registar cliente "Helvecio_Branco@hotmail.com" "Helvecio Branco" "rP19ENeqG" "Rua do Campo da Bola, 1046, 2565-140 Carreiras" 1995-11-12 (53.2,16.4) ;
+
+registar mota "36-DQ-59" 65 (3.6,5.9) empresa "Empresa 26" ;
+
+registar helicoptero "35-GX-89" 34 (3.5,8.9) empresa "Empresa 11" ;
+
+registar condutor "Socorro_Goncalves@sapo.pt" "Socorro Goncalves" "4dqE3kA6e" "Rua Conde de Albuquerque, 659, 2765-611 Estoril" 1917-7-15 347 ;
+
+registar condutor "Michele_Leite@mail.google.com" "Michele Leite" "eD3O4vX3x" ", 373, 8670-122 Estrada Nacional" 1963-8-26 379 ;
+
+login "Elca_Reis@hotmail.com" "aeFX0v0Ln" ; 
+solicitar (45.9,16.0) ;
+solicitar (10.7,57.9) ;
+solicitar (38.3,94.8) ;
+logout ;
+
+login "Michele_Leite@mail.google.com" "eD3O4vX3x" ;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+recusar viagem;
+logout ;
+
+login "Lana_Raposo@gmail.com" "MmjjrveF8" ; 
+solicitar (32.5,14.1) ;
+solicitar (22.4,56.2) ;
+solicitar (96.1,6.2) ;
+solicitar (22.5,58.2) ;
+solicitar (85.4,28.9) ;
+logout ;
+
+registar mota "64-YH-21" 58 (6.4,2.1) "Katarina_Anjos@outlook.com" ;
+
+registar mota "35-YI-82" 85 (3.5,8.2) empresa "Empresa 42" ;
+
+login "Juvenal_Moreira@gmail.com" "T65QCDWin" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar condutor "Hermenerico_Coelho@outlook.com" "Hermenerico Coelho" "XbZQLwgxg" "Rua Nossa Senhora do Parto, 1237, 3505-530 Viseu" 1916-8-16 264 ;
+
+registar carrinha "66-WY-57" 46 (6.6,5.7) "Leoberto_Fonseca@outlook.com" ;
+
+registar empresa "Empresa 14" "rkiBVzEuZ" ;
+
+login "Eduartino_Faria@hotmail.com" "TBsxjTSvo" ;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar cliente "Eunice_Carneiro@gmail.com" "Eunice Carneiro" "gn342HSGu" "Caminho da Rampa dos Olivais, 2339, 2070-381 Pontevel" 1908-12-16 (57.1,54.1) ;
+
+registar condutor "Genciana_Pinho@outlook.com" "Genciana Pinho" "RCTz7OpYy" "Travessa das Velhas, 2216, 8970-104 Gioes" 1923-11-21 287 ;
+
+registar empresa "Empresa 8" "57gfVOcUb" ;
+
+login "Josafat_Pinho@gmail.com" "SB5TRpUeo" ; 
+solicitar (19.0,94.6) ;
+logout ;
+
+login "Aniana_Henriques@hotmail.com" "ZuuX7IhAi" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar carrinha "01-FE-30" 45 (0.1,3.0) "Ianis_Pereira@mail.google.com" ;
+
+registar condutor "Noe_Baptista@sapo.pt" "Noe Baptista" "itrG4hCqw" "Rua Engenheiro Duarte Pacheco, 1867, 2400-130 Leiria" 1931-8-15 162 ;
+
+registar carrinha "58-OV-48" 73 (5.8,4.8) empresa "Empresa 25" ;
+
+login "Elca_Reis@hotmail.com" "aeFX0v0Ln" ; 
+solicitar (45.9,22.1) ;
+solicitar (91.9,78.6) ;
+solicitar (44.8,78.1) ;
+solicitar (52.7,88.9) ;
+solicitar (48.6,22.5) ;
+logout ;
+
+login "Ianis_Pereira@mail.google.com" "8aFS176xk" ;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar cliente "Assunta_Cruz@outlook.com" "Assunta Cruz" "cDmAJE24F" "Travessa Costa Rosa, 932, 4615-586 Macieira da Lixa" 1939-6-10 (93.8,25.2) ;
+
+registar condutor "Andrea_Pacheco@outlook.com" "Andrea Pacheco" "3NmdHiDnq" "Rua de Simaes, 2115, 4860-460 Vale" 1969-5-7 474 ;
+
+registar carrinha "85-OM-51" 41 (8.5,5.1) "Hildegarda_Brito@mail.google.com" ;
+
+login "Genciana_Pinho@outlook.com" "RCTz7OpYy" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Michele_Leite@mail.google.com" "eD3O4vX3x" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Reinaldo_Ramos@mail.google.com" "9aNhHwAl6" ;
+viajar;
+viajar;
+logout ;
+
+login "Elmer_Gaspar@mail.google.com" "U9YrvQmiE" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+login "Chantal_Anjos@gmail.com" "8uyaZE97o" ; 
+solicitar (4.7,35.3) ;
+solicitar (22.9,64.1) ;
+solicitar (65.7,14.8) ;
+solicitar (93.3,99.6) ;
+solicitar (41.3,94.7) ;
+logout ;
+
+registar carrinha "39-EQ-19" 30 (3.9,1.9) "Hortense_Mota@gmail.com" ;
+
+registar condutor "aurea_Vicente@gmail.com" "aurea Vicente" "0ZpvDckh1" "Rua da Alfarrobeira, 472, 2900-740 Setubal" 1950-8-17 369 ;
+
+registar condutor "Boris_Lima@sapo.pt" "Boris Lima" "iBAJhfhDS" "Rua do Vale Sepal, 2099, 2415-395 Leiria" 1981-12-26 262 ;
+
+registar carro "34-PA-34" 64 (3.4,3.4) "Raimundo_Henriques@mail.google.com" ;
+
+registar condutor "Americo_Cardoso@hotmail.com" "Americo Cardoso" "EGO8p1VNa" "Rua da Vinha, 709, 2775-636 Carcavelos" 1983-2-11 140 ;
+
+registar carro "58-ZZ-00" 85 (5.8,0.0) empresa "Empresa 20" ;
+
+registar carro "71-NV-07" 84 (7.1,0.7) "Eduartino_Faria@hotmail.com" ;
+
+login "Corita_Andrade@gmail.com" "NIgIKqnXi" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+login "Vili_Santos@mail.google.com" "9EAHHjgpf" ; 
+solicitar (86.7,37.3) ;
+logout ;
+
+login "Belchior_Melo@outlook.com" "kSJ2YY9Oc" ; 
+solicitar (82.3,5.3) ;
+solicitar (55.6,40.6) ;
+solicitar (41.3,67.2) ;
+solicitar (60.4,59.3) ;
+logout ;
+
+registar carrinha "67-MV-20" 72 (6.7,2.0) empresa "Empresa 49" ;
+
+registar helicoptero "82-VP-22" 67 (8.2,2.2) "Cordelia_Henriques@gmail.com" ;
+
+login "Benilde_Ferreira@gmail.com" "U6HD8QyXO" ; 
+solicitar (30.4,73.4) ;
+logout ;
+
+login "Alipio_Leal@mail.google.com" "7SKecQKQp" ; 
+solicitar (36.9,25.6) ;
+solicitar (65.8,95.7) ;
+solicitar (91.7,97.1) ;
+solicitar (65.9,23.2) ;
+logout ;
+
+registar cliente "Merrelho_Freitas@sapo.pt" "Merrelho Freitas" "0bgTnr3fe" "Rua Antonio Aleixo, 667, 7580-038 Alcacer do Sal" 1950-12-20 (50.0,61.4) ;
+
+registar helicoptero "90-IS-62" 56 (9.0,6.2) "Jetro_Guerreiro@hotmail.com" ;
+
+login "Eloa_Cruz@hotmail.com" "e50G7Twi8" ;
+recusar viagem;
+logout ;
+
+registar cliente "Indaleta_Guerreiro@gmail.com" "Indaleta Guerreiro" "hw1SACYtP" "Caminho Quinta da Baiuca, 1223, 6200-001 Covilha" 1973-2-15 (76.5,64.2) ;
+
+registar carro "12-EV-74" 59 (1.2,7.4) empresa "Empresa 33" ;
+
+registar carrinha "80-GL-37" 77 (8.0,3.7) "Jetro_Guerreiro@hotmail.com" ;
+
+registar carrinha "62-VH-52" 50 (6.2,5.2) "Elias_Nascimento@sapo.pt" ;
+
+registar helicoptero "61-PW-68" 38 (6.1,6.8) empresa "Empresa 33" ;
+
+registar helicoptero "13-LJ-43" 65 (1.3,4.3) "Silviana_Valente@hotmail.com" ;
+
+registar mota "77-WP-17" 50 (7.7,1.7) "Amauri_Alves@hotmail.com" ;
+
+registar carrinha "00-ER-41" 83 (0.0,4.1) empresa "Empresa 7" ;
+
+registar cliente "Bernadete_Faria@gmail.com" "Bernadete Faria" "I6H1vxyCp" "Travessa do Outeiro, 1670, 6120-744 Macao" 1946-8-15 (5.0,63.2) ;
+
+registar carro "28-VL-11" 36 (2.8,1.1) "Sivio_Andrade@sapo.pt" ;
+
+registar cliente "Leonicio_Valente@outlook.com" "Leonicio Valente" "gClHe8TWb" "Rua Alexandre Herculano, 506, 7080-175 Vendas Novas" 2001-11-21 (40.2,19.9) ;
+
+login "Carmen_Teixeira@gmail.com" "3VZuwLh9V" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar carro "37-LG-58" 71 (3.7,5.8) empresa "Empresa 12" ;
+
+registar mota "36-UM-78" 69 (3.6,7.8) empresa "Empresa 13" ;
+
+registar helicoptero "66-XU-10" 86 (6.6,1.0) empresa "Empresa 27" ;
+
+registar helicoptero "59-GX-78" 70 (5.9,7.8) empresa "Empresa 35" ;
+
+registar empresa "Empresa 8" "V5XjDylhq" ;
+
+login "Cordelia_Henriques@gmail.com" "XEI9na2rT" ;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar helicoptero "28-RV-13" 43 (2.8,1.3) "Rafaela_Silva@hotmail.com" ;
+
+registar empresa "Empresa 24" "WhQ36REO7" ;
+
+registar carrinha "83-MG-30" 42 (8.3,3.0) empresa "Empresa 35" ;
+
+registar carro "08-UF-50" 50 (0.8,5.0) "Tadeu_Jesus@sapo.pt" ;
+
+registar mota "15-QY-73" 55 (1.5,7.3) "Eduartino_Faria@hotmail.com" ;
+
+registar mota "50-FC-38" 33 (5.0,3.8) empresa "Empresa 47" ;
+
+registar carrinha "66-RV-01" 56 (6.6,0.1) "Anania_Amorim@sapo.pt" ;
+
+registar carro "36-RB-48" 45 (3.6,4.8) "Selene_Ferreira@gmail.com" ;
+
+registar carrinha "84-ET-67" 46 (8.4,6.7) empresa "Empresa 31" ;
+
+login "elton_Pacheco@gmail.com" "7kEwUN6GQ" ; 
+solicitar (62.3,41.7) ;
+solicitar (83.5,14.7) ;
+solicitar (35.3,35.7) ;
+solicitar (22.0,23.8) ;
+solicitar (18.2,91.7) ;
+logout ;
+
+login "Giana_Baptista@sapo.pt" "b8DlSOB4k" ; 
+solicitar (41.5,39.9) ;
+logout ;
+
+registar cliente "Hemexi_Vieira@mail.google.com" "Hemexi Vieira" "VVZEDtojw" "Rua B, 1537, 2080-001 Almeirim" 1982-10-10 (8.6,60.7) ;
+
+registar mota "57-AP-88" 42 (5.7,8.8) empresa "Empresa 22" ;
+
+registar cliente "Tauane_Paiva@mail.google.com" "Tauane Paiva" "oDIUUDtUR" ", 1147, 5335-053 Valpaco" 1918-2-1 (8.2,40.5) ;
+
+registar carro "05-BO-50" 84 (0.5,5.0) "Anania_Amorim@sapo.pt" ;
+
+registar carrinha "58-XD-46" 36 (5.8,4.6) empresa "Empresa 6" ;
+
+login "Salete_Lima@sapo.pt" "dhV4cSkVd" ;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar helicoptero "94-FN-52" 47 (9.4,5.2) empresa "Empresa 45" ;
+
+registar condutor "Remo_Leite@outlook.com" "Remo Leite" "PTJUQe1lD" "Travessa Doutor Sidonio Pais, 1066, 6050-327 Nisa" 1974-8-5 127 ;
+
+registar carrinha "75-XT-68" 85 (7.5,6.8) "elson_Fernandes@outlook.com" ;
+
+registar condutor "Hilario_Lourenco@sapo.pt" "Hilario Lourenco" "dbUnS7mh8" "Rua Eca de Queiros, 1101, 2950-343 Palmela" 2007-11-14 22 ;
+
+registar carrinha "85-WP-75" 57 (8.5,7.5) empresa "Empresa 9" ;
+
+registar carrinha "03-BF-09" 56 (0.3,0.9) "Soeiro_Silva@mail.google.com" ;
+
+login "elson_Fernandes@outlook.com" "Irbia7ikT" ;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar carrinha "67-RF-38" 56 (6.7,3.8) "Gileade_Campos@hotmail.com" ;
+
+registar condutor "Camelia_Raposo@mail.google.com" "Camelia Raposo" "KERuCefjQ" "Rua da Tapada Nova, 1522, 4505-450 Lobao" 1929-10-1 448 ;
+
+registar carro "43-ZE-71" 33 (4.3,7.1) "Zubaida_Vicente@mail.google.com" ;
+
+login "Anania_Amorim@sapo.pt" "yuok9IhCG" ;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+recusar viagem;
+logout ;
+
+login "Leolina_Teixeira@hotmail.com" "yjhk0deMY" ; 
+solicitar (13.1,4.3) ;
+logout ;
+
+registar carro "45-KQ-01" 90 (4.5,0.1) empresa "Empresa 6" ;
+
+login "Porfirio_Matos@hotmail.com" "dyAKNolMQ" ;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar mota "56-JF-48" 79 (5.6,4.8) "Hildegarda_Brito@mail.google.com" ;
+
+login "Fulvio_Pires@mail.google.com" "2lxSq3eAf" ; 
+solicitar (34.9,25.6) ;
+solicitar (16.1,44.0) ;
+solicitar (59.6,18.2) ;
+solicitar (22.3,85.1) ;
+solicitar (41.5,94.8) ;
+logout ;
+
+login "Davi_Goncalves@hotmail.com" "LjDwvPytz" ; 
+solicitar (85.6,79.3) ;
+solicitar (44.0,86.7) ;
+solicitar (54.1,17.2) ;
+solicitar (60.5,44.6) ;
+solicitar (77.0,37.1) ;
+logout ;
+
+login "Helada_Barbosa@outlook.com" "uzJ0B6KuZ" ; 
+solicitar (73.8,80.5) ;
+solicitar (38.6,53.1) ;
+solicitar (84.3,83.4) ;
+solicitar (17.3,93.2) ;
+solicitar (45.0,32.5) ;
+logout ;
+
+login "Adail_Ribeiro@sapo.pt" "cGk4EWj41" ; 
+solicitar (50.2,64.0) ;
+solicitar (35.4,1.2) ;
+solicitar (30.6,36.5) ;
+solicitar (84.2,47.0) ;
+logout ;
+
+login "Dominico_Esteves@sapo.pt" "ayC0kftE3" ; 
+solicitar (20.9,53.8) ;
+solicitar (82.6,49.5) ;
+solicitar (81.8,7.1) ;
+logout ;
+
+registar cliente "Albano_Santos@gmail.com" "Albano Santos" "WtmzLrya6" ", 139, 9240-116 Segunda Lombada" 1915-7-5 (94.0,25.6) ;
+
+registar helicoptero "29-OJ-11" 33 (2.9,1.1) "Reinaldo_Ramos@mail.google.com" ;
+
+registar carrinha "44-AA-14" 73 (4.4,1.4) empresa "Empresa 19" ;
+
+registar mota "63-DD-86" 39 (6.3,8.6) "Leoberto_Fonseca@outlook.com" ;
+
+registar condutor "Benita_Cunha@hotmail.com" "Benita Cunha" "X7iqN0RC1" "Avenida da Republica, 363, 8700-308 Olhao" 1902-10-24 258 ;
+
+login "Ianis_Pereira@mail.google.com" "8aFS176xk" ;
+recusar viagem;
+logout ;
+
+login "Turgo_Moura@outlook.com" "sC5IMye0b" ; 
+solicitar (1.3,71.9) ;
+solicitar (22.4,43.5) ;
+solicitar (99.4,10.6) ;
+logout ;
+
+registar mota "44-YC-32" 53 (4.4,3.2) empresa "Empresa 37" ;
+
+login "Bruce_Cardoso@outlook.com" "A0Kph0XYg" ; 
+solicitar (63.8,20.3) ;
+solicitar (36.8,22.3) ;
+solicitar (14.5,71.5) ;
+logout ;
+
+login "Eliete_Batista@sapo.pt" "MvdfTne12" ; 
+solicitar (83.9,70.7) ;
+logout ;
+
+registar condutor "Higino_Silva@sapo.pt" "Higino Silva" "SL8YVFSD1" "Praca Sao Joao Bosco, 861, 1350-297 Lisboa" 1964-8-31 160 ;
+
+registar carro "74-KF-04" 48 (7.4,0.4) "Hermiterio_Nunes@hotmail.com" ;
+
+registar carrinha "57-PK-11" 64 (5.7,1.1) "aurea_Vicente@gmail.com" ;
+
+registar carrinha "32-BT-73" 61 (3.2,7.3) empresa "Empresa 13" ;
+
+registar cliente "Aristoteles_Nascimento@mail.google.com" "Aristoteles Nascimento" "72Ei8gxVd" "Travessa da Fonte, 2350, 2655-137 Valbom" 1913-2-11 (27.8,26.6) ;
+
+login "Raimundo_Henriques@mail.google.com" "b8QXlbJk1" ;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Gaele_Antunes@gmail.com" "cJuM9WnAa" ; 
+solicitar (74.0,27.0) ;
+logout ;
+
+login "Jesus_Leite@hotmail.com" "JJBuZa01T" ; 
+solicitar (9.7,49.1) ;
+solicitar (17.1,93.4) ;
+solicitar (54.0,13.3) ;
+solicitar (50.6,81.0) ;
+solicitar (97.0,83.4) ;
+logout ;
+
+registar empresa "Empresa 7" "CIX9E3cRj" ;
+
+registar empresa "Empresa 13" "fkM4RUqSX" ;
+
+registar cliente "Ricardina_Jesus@mail.google.com" "Ricardina Jesus" "Jdnew1CZ6" "Caminho do Ribeiro, 9, 4925-550 Outeiro" 1915-9-24 (88.9,97.2) ;
+
+registar mota "53-IO-23" 43 (5.3,2.3) "Jamim_Gaspar@mail.google.com" ;
+
+login "Saula_Araujo@gmail.com" "1OJbt4Mfz" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar condutor "Arao_Abreu@outlook.com" "Arao Abreu" "VFGjkUioQ" "Rua Manuel Francisco Cruz, 590, 3060-332 Fontinha" 1977-1-31 173 ;
+
+registar mota "30-MH-24" 41 (3.0,2.4) empresa "Empresa 37" ;
+
+login "Soeiro_Silva@mail.google.com" "NeprTsBYB" ;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar mota "09-MG-29" 62 (0.9,2.9) "Gino_Barros@mail.google.com" ;
+
+login "Zulaia_Alves@hotmail.com" "HnycORB2F" ; 
+solicitar (75.9,28.3) ;
+solicitar (68.6,88.6) ;
+solicitar (66.6,24.8) ;
+logout ;
+
+login "Lineu_Vicente@sapo.pt" "svWJOhs0Q" ;
+viajar;
+recusar viagem;
+logout ;
+
+registar condutor "Sidnei_Paiva@outlook.com" "Sidnei Paiva" "hImsJpnPu" "Praceta Terra da Eira, 108, 2705-737 Sao Joao das Lampas" 1934-7-13 388 ;
+
+registar carrinha "49-LB-88" 73 (4.9,8.8) empresa "Empresa 33" ;
+
+registar empresa "Empresa 16" "hGYfxG80D" ;
+
+login "Zila_Coelho@gmail.com" "ZHvAtut7a" ; 
+solicitar (40.5,46.3) ;
+solicitar (60.6,68.9) ;
+logout ;
+
+login "Erico_Coelho@outlook.com" "ZLekaMU9b" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+login "Elza_Esteves@outlook.com" "I9lKoe9l6" ; 
+solicitar (57.0,10.9) ;
+solicitar (22.2,63.4) ;
+solicitar (18.5,67.5) ;
+solicitar (40.7,59.0) ;
+solicitar (81.4,66.5) ;
+logout ;
+
+registar mota "99-YV-84" 75 (9.9,8.4) "Carla_Cruz@gmail.com" ;
+
+login "Didaco_Correia@gmail.com" "L7L1ML63E" ; 
+solicitar (98.4,18.8) ;
+solicitar (96.1,48.2) ;
+solicitar (24.0,52.9) ;
+logout ;
+
+registar condutor "Alexandro_Vaz@mail.google.com" "Alexandro Vaz" "sDzFn8g6K" ", 1784, 3670-047 Levides" 1922-10-3 270 ;
+
+login "Camila_Pires@mail.google.com" "i7woRPEZy" ; 
+solicitar (38.1,79.0) ;
+solicitar (52.1,85.4) ;
+solicitar (10.8,10.3) ;
+solicitar (61.7,55.9) ;
+logout ;
+
+login "Danila_Esteves@mail.google.com" "byMovPfru" ;
+viajar;
+recusar viagem;
+logout ;
+
+registar mota "89-LC-66" 40 (8.9,6.6) empresa "Empresa 46" ;
+
+registar condutor "Gaorii_Batista@mail.google.com" "Gaorii Batista" "BMu8D7Xx5" "Ruinha, 2077, 7050-085 Montemor-O-Novo" 1902-2-19 366 ;
+
+registar empresa "Empresa 36" "BRcf3Fdeo" ;
+
+registar mota "01-AT-85" 81 (0.1,8.5) empresa "Empresa 52" ;
+
+registar condutor "Fred_Paiva@hotmail.com" "Fred Paiva" "DIBQ3xTBg" "Rua das Flores, 2304, 2530-370 Marteleira" 1961-12-31 72 ;
+
+login "Hermenerico_Coelho@outlook.com" "XbZQLwgxg" ;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+registar carro "44-YW-00" 72 (4.4,0.0) empresa "Empresa 23" ;
+
+registar carro "44-NS-37" 77 (4.4,3.7) empresa "Empresa 33" ;
+
+registar mota "51-SZ-73" 68 (5.1,7.3) empresa "Empresa 27" ;
+
+registar helicoptero "22-LI-11" 72 (2.2,1.1) "Acilio_Mota@mail.google.com" ;
+
+registar cliente "Anaide_Lopes@outlook.com" "Anaide Lopes" "YSrSktO6n" "Rua da Relva, 2250, 4535-296 Pacos de Brandao" 1909-11-24 (35.2,75.5) ;
+
+registar carrinha "02-SD-48" 30 (0.2,4.8) "Angel_Amorim@hotmail.com" ;
+
+login "Soeiro_Silva@mail.google.com" "NeprTsBYB" ;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+logout ;
+
+login "Tauane_Paiva@mail.google.com" "oDIUUDtUR" ; 
+solicitar (38.7,2.8) ;
+logout ;
+
+registar cliente "Sidnei_Sousa@gmail.com" "Sidnei Sousa" "d7kulXy9w" "Largo Capitaes de Abril, 2476, 7540-220 Santiago do Cacem" 1921-2-15 (19.5,66.4) ;
+
+registar cliente "Joao_Raposo@mail.google.com" "Joao Raposo" "pYHl3T6nj" "Rua Jose Saramago, 1005, 7940-148 Cuba" 1926-12-14 (13.3,44.6) ;
+
+registar helicoptero "63-CB-99" 72 (6.3,9.9) "Donzelia_Ferreira@outlook.com" ;
+
+registar carrinha "93-SK-73" 60 (9.3,7.3) empresa "Empresa 7" ;
+
+login "Camila_Pires@mail.google.com" "i7woRPEZy" ; 
+solicitar (10.0,52.2) ;
+logout ;
+
+registar mota "04-ER-49" 46 (0.4,4.9) empresa "Empresa 43" ;
+
+registar cliente "Alaide_Pinho@sapo.pt" "Alaide Pinho" "QUJupq2hn" "Rua Doutor Eloy, 544, 3060-779 Vilamar" 1944-8-29 (8.2,52.8) ;
+
+registar condutor "Elina_Ribeiro@sapo.pt" "Elina Ribeiro" "AeV5ZL9n5" "Travessa 11 de Dezembro, 214, 2425-110 Serra Porto D'Urso" 1907-12-18 13 ;
+
+login "Deivid_Carvalho@gmail.com" "zCt6oUsUA" ;
+recusar viagem;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+login "Quiterio_Rocha@gmail.com" "TKezGnGKD" ;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+viajar;
+logout ;
+
+registar mota "09-ZX-09" 43 (0.9,0.9) empresa "Empresa 2" ;
+
+registar helicoptero "57-WT-44" 39 (5.7,4.4) empresa "Empresa 35" ;
+
+registar carro "21-UX-91" 54 (2.1,9.1) empresa "Empresa 27" ;
+
+registar mota "00-VR-47" 78 (0.0,4.7) "Eloa_Cruz@hotmail.com" ;
+
+registar mota "01-GA-90" 55 (0.1,9.0) empresa "Empresa 0" ;
+
+registar mota "03-AO-81" 33 (0.3,8.1) empresa "Empresa 48" ;
+
+registar cliente "Andrea_Guerreiro@gmail.com" "Andrea Guerreiro" "E6LX5r7Ca" ", 1322, 4850-200 Barragem" 1974-11-1 (6.6,36.3) ;
+
+registar carro "93-TN-15" 74 (9.3,1.5) "Raimundo_Henriques@mail.google.com" ;
+
+login "Leticia_Pinho@sapo.pt" "ib8Mqe0lB" ;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar helicoptero "62-VO-46" 36 (6.2,4.6) empresa "Empresa 23" ;
+
+registar empresa "Empresa 45" "8pg5hZIxv" ;
+
+registar condutor "Bina_Leal@hotmail.com" "Bina Leal" "5xWpLHH2O" "Rua de Moura, 935, 7875-369 Sobral da Adica" 2002-5-6 427 ;
+
+registar helicoptero "49-MO-20" 46 (4.9,2.0) empresa "Empresa 17" ;
+
+registar helicoptero "43-HY-00" 57 (4.3,0.0) "Aleta_Assuncao@hotmail.com" ;
+
+login "Canto_Vieira@mail.google.com" "IdNpNDmbK" ; 
+solicitar (7.3,25.2) ;
+solicitar (54.5,21.7) ;
+solicitar (7.5,17.9) ;
+solicitar (40.3,72.7) ;
+solicitar (15.0,32.4) ;
+logout ;
+
+login "Anael_Anjos@gmail.com" "NT6KbZlB6" ;
+viajar;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+logout ;
+
+login "Erico_Coelho@outlook.com" "ZLekaMU9b" ;
+recusar viagem;
+viajar;
+viajar;
+viajar;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar carrinha "69-RH-54" 45 (6.9,5.4) empresa "Empresa 40" ;
+
+registar condutor "Taciano_Brito@gmail.com" "Taciano Brito" "aUcrtzoSH" "Caminho Municipal 1302, 1493, 2670-734 Fanhoes" 2011-11-17 74 ;
+
+registar cliente "Guislene_Matos@mail.google.com" "Guislene Matos" "960bPWBtL" ", 811, 3105-101 Outeiro Martinho" 1912-8-2 (2.3,34.0) ;
+
+registar carrinha "60-JO-06" 52 (6.0,0.6) empresa "Empresa 44" ;
+
+login "Benicio_Melo@sapo.pt" "2h9Ox4PC3" ;
+viajar;
+viajar;
+recusar viagem;
+logout ;
+
+registar helicoptero "64-XK-14" 83 (6.4,1.4) empresa "Empresa 49" ;
+
+registar mota "66-IF-43" 61 (6.6,4.3) "Celio_Martins@mail.google.com" ;
+
+registar carrinha "43-EW-21" 52 (4.3,2.1) "Andrea_Torres@outlook.com" ;
+
+registar cliente "Celsa_Jesus@gmail.com" "Celsa Jesus" "iefnqvRuJ" "Avenida Natalia Correia, 1094, 9500-341 Ponta Delgada" 1953-3-17 (83.5,40.6) ;
+
+login "Talia_Nunes@sapo.pt" "eIErbQzjm" ;
+viajar;
+viajar;
+viajar;
+logout ;
+
+registar carro "71-OZ-75" 72 (7.1,7.5) empresa "Empresa 30" ;
+
+registar carrinha "55-UQ-81" 79 (5.5,8.1) "Ilse_Assuncao@mail.google.com" ;
+
+registar cliente "Giulia_Henriques@hotmail.com" "Giulia Henriques" "mv7f5lvWk" "Avenida da Lagoa, 1126, 2445-202 Pataias" 1931-6-4 (44.1,79.4) ;
+
+registar cliente "Decimo_Gomes@gmail.com" "Decimo Gomes" "44h9p3Nx3" "Rua do Poco, 729, 6320-681 Souto" 1915-6-28 (4.1,13.3) ;
+
+login "Consolacao_Gaspar@outlook.com" "lOcp9ARCt" ; 
+solicitar (50.5,6.1) ;
+solicitar (95.3,77.1) ;
+solicitar (60.9,39.2) ;
+solicitar (99.0,61.1) ;
+logout ;
+
+registar carrinha "94-KE-64" 37 (9.4,6.4) empresa "Empresa 7" ;
+
+registar helicoptero "94-RX-06" 44 (9.4,0.6) empresa "Empresa 35" ;
+
+registar carrinha "05-BL-33" 50 (0.5,3.3) empresa "Empresa 30" ;
+
+login "SalvadordeJesus_Lopes@gmail.com" "qZgT0PFKk" ; 
+solicitar (63.3,73.9) ;
+solicitar (79.6,69.6) ;
+solicitar (75.8,21.9) ;
+logout ;
+
+registar cliente "Eduartino_Loureiro@sapo.pt" "Eduartino Loureiro" "rYBXsrNrG" "Rua da Pontinha, 1261, 4525-622 Varzea" 1923-11-1 (49.7,33.9) ;
+
+registar carro "60-SE-11" 50 (6.0,1.1) empresa "Empresa 39" ;
+
+registar mota "05-XP-93" 47 (0.5,9.3) "elson_Fernandes@outlook.com" ;
+
+registar empresa "Empresa 7" "1d0GIaUKk" ;
+
+registar carro "15-XX-86" 81 (1.5,8.6) "Jetro_Guerreiro@hotmail.com" ;
+
+registar carrinha "18-CU-99" 64 (1.8,9.9) empresa "Empresa 39" ;
+
+registar empresa "Empresa 49" "UGCg3JLAD" ;
+
+registar cliente "Sotero_Faria@gmail.com" "Sotero Faria" "d5igpCcow" "Rua das Rosas, 966, 4420-294 Gondomar" 1938-1-12 (81.0,7.9) ;
+
+registar condutor "Simaura_Monteiro@gmail.com" "Simaura Monteiro" "KMku3C50h" "Rua da Olaria, 2121, 2125-203 Marinhais" 1934-6-1 332 ;
+
