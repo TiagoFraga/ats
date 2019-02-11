@@ -1,0 +1,503 @@
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/ATS.java:10:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/ATS.java:38:	Avoid unused local variables such as 'tree'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Bike.java:4:	Avoid duplicate imports such as 'java.util.LinkedList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Bike.java:4:	Avoid unused imports such as 'java.util.LinkedList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Bike.java:5:	Avoid unused imports such as 'java.util'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Bike.java:11:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Bike.java:54:	Object clone() should be implemented with super.clone()
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Bike.java:54:	clone() method should be implemented only if implementing Cloneable interface
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Bike.java:54:	clone() method should throw CloneNotSupportedException
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:4:	Avoid duplicate imports such as 'java.util.LinkedList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:4:	Avoid unused imports such as 'java.util.LinkedList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:11:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:54:	Object clone() should be implemented with super.clone()
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:54:	clone() method should be implemented only if implementing Cloneable interface
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:54:	clone() method should throw CloneNotSupportedException
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:64:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:67:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:68:	An empty statement (semicolon) not part of a loop
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:68:	Avoid empty if statements
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Car.java:68:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Client.java:5:	Avoid unused imports such as 'java.util.HashMap'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Client.java:6:	Avoid unused imports such as 'java.util.stream.Collectors'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Client.java:7:	Avoid unused imports such as 'java.util.Map'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Client.java:13:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Client.java:38:	Avoid unused constructor parameters such as 'queue'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Client.java:38:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Client.java:154:	Object clone() should be implemented with super.clone()
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Client.java:154:	clone() method should be implemented only if implementing Cloneable interface
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Client.java:154:	clone() method should throw CloneNotSupportedException
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:13:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:14:	Use one line for each declaration, it enhances code readability.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:15:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:16:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:17:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:70:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:72:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:81:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:83:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:108:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:110:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:140:	The method name and parameter number are suspiciously close to equals(Object)
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:148:	Object clone() should be implemented with super.clone()
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:148:	clone() method should be implemented only if implementing Cloneable interface
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:148:	clone() method should throw CloneNotSupportedException
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:158:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:169:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:208:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:212:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:228:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:231:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:249:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:251:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Company.java:253:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/CustomProbabilisticDistribution.java:2:	Avoid unused imports such as 'java.util.ArrayList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/CustomProbabilisticDistribution.java:3:	Avoid unused imports such as 'java.util.Arrays'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/CustomProbabilisticDistribution.java:9:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/DeviationComparator.java:7:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/DeviationComparator.java:15:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/DeviationComparator.java:16:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/DeviationComparator.java:17:	Useless parentheses.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:2:	Avoid unused imports such as 'java.awt.geom.Point2D'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:5:	Avoid unused imports such as 'java.util.stream.Collectors'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:11:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:42:	Avoid unused constructor parameters such as 'exp'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:42:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:226:	Object clone() should be implemented with super.clone()
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:226:	clone() method should be implemented only if implementing Cloneable interface
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:226:	clone() method should throw CloneNotSupportedException
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:249:	The method name and parameter number are suspiciously close to equals(Object)
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:272:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Driver.java:273:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:3:	Avoid unused imports such as 'javafx.animation.Animation'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:6:	Avoid unused imports such as 'javafx.beans.binding.Binding'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:8:	Avoid unused imports such as 'javafx.collections.ObservableArray'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:10:	Avoid unused imports such as 'javafx.event.ActionEvent'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:11:	Avoid unused imports such as 'javafx.event.Event'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:12:	Avoid unused imports such as 'javafx.event.EventHandler'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:13:	Avoid unused imports such as 'javafx.fxml.FXMLLoader'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:15:	Avoid unused imports such as 'javafx.geometry.Pos'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:16:	Avoid unused imports such as 'javafx.scene.Cursor'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:17:	Avoid unused imports such as 'javafx.scene.Node'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:18:	Avoid unused imports such as 'javafx.scene.Parent'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:23:	Avoid unused imports such as 'javafx.scene.layout.Border'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:25:	Avoid unused imports such as 'javafx.scene.layout.StackPane'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:29:	Avoid unused imports such as 'javafx.scene.text.Text'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:31:	Avoid unused imports such as 'javafx.stage.Popup'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:33:	Avoid unused imports such as 'javafx.stage.Window'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:34:	Avoid duplicate imports such as 'javafx.scene.paint.Color'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:38:	Avoid unused imports such as 'java.time.LocalDateTime'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:44:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:47:	Perhaps 'menu' could be replaced by a local variable.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:47:	Use one line for each declaration, it enhances code readability.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:48:	Use one line for each declaration, it enhances code readability.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:49:	Use one line for each declaration, it enhances code readability.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:54:	Avoid unused private fields such as 'company_hbox'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:63:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:74:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:79:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:80:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:87:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:87:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:88:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:88:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:89:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:89:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:90:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:90:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:91:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:91:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:94:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:94:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:95:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:95:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:96:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:96:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:97:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:97:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:104:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:106:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:108:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:113:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:116:	Avoid unused local variables such as 'vehicle'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:129:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:130:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:131:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:132:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:152:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:152:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:182:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:185:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:188:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:190:	The local variable name 'day_box' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:192:	The local variable name 'month_box' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:194:	The local variable name 'year_box' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:197:	The local variable name 'bday_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:203:	The local variable name 'company_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:208:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:211:	The local variable name 'companies_cbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:214:	The local variable name 'companies_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:220:	The local variable name 'condition_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:222:	The local variable name 'condition_list' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:225:	The local variable name 'condition_cbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:228:	The local variable name 'condition_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:234:	The local variable name 'condition_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:236:	The local variable name 'condition_list' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:239:	The local variable name 'condition_cbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:242:	The local variable name 'condition_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:265:	The local variable name 'info_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:270:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:272:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:273:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:282:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:288:	The local variable name 'trips_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:292:	The local variable name 'trips_root' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:295:	The local variable name 'trips_info' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:296:	The local variable name 'trips_dates' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:312:	The local variable name 'trips_items' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:313:	The local variable name 'trips_i' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:328:	The local variable name 'user_class' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:330:	The local variable name 'users_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:331:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:341:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:346:	The local variable name 'users_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:347:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:348:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:352:	The local variable name 'users_root' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:353:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:354:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:357:	The local variable name 'users_emails' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:359:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:360:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:361:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:364:	The local variable name 'trips_items' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:365:	The local variable name 'users_i' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:367:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:368:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:369:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:383:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:384:	The local variable name 'vehicles_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:389:	The local variable name 'vehicles_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:393:	The local variable name 'registerVehicle_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:400:	The local variable name 'vehicles_root' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:403:	The local variable name 'vehicles_licencePlate' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:404:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:405:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:408:	The local variable name 'vehicle_item' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:409:	The local variable name 'vehicles_i' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:410:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:411:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:418:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:419:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:425:	The local variable name 'companies_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:430:	The local variable name 'companies_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:434:	The local variable name 'companies_root' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:437:	The local variable name 'companies_name' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:441:	The local variable name 'company_item' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:442:	The local variable name 'company_i' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:456:	The local variable name 'signupDone_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:463:	The local variable name 'back_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:499:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:501:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:502:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:506:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:507:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:512:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:514:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:515:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:522:	The local variable name 'reload_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:525:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:526:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:527:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:541:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:542:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:546:	The local variable name 'moneyGeneratedBetween_box' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:553:	The local variable name 'date1_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:555:	The local variable name 'date2_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:558:	The local variable name 'date1_box' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:559:	The local variable name 'date2_box' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:563:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:565:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:571:	The local variable name 'button_and_money' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:572:	The local variable name 'moneyGenerated_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:574:	The local variable name 'done_buttom' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:581:	The local variable name 'date1_day' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:582:	The local variable name 'date1_month' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:583:	The local variable name 'date1_year' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:584:	The local variable name 'date2_day' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:585:	The local variable name 'date2_month' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:586:	The local variable name 'date2_year' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:660:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:662:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:669:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:693:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:693:	Avoid using implementation types like 'TreeSet'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:697:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:698:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:699:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:716:	Avoid using implementation types like 'TreeSet'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:720:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:727:	Avoid using implementation types like 'TreeSet'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:731:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:738:	Avoid using implementation types like 'TreeSet'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:742:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:750:	The local variable name 'signupClient_layout' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:753:	The local variable name 'driverTitle_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:755:	The local variable name 'name_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:756:	The local variable name 'email_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:757:	The local variable name 'address_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:758:	The local variable name 'bday_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:760:	The local variable name 'bday_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:761:	The local variable name 'password_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:765:	The local variable name 'signupDone_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:784:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:787:	The local variable name 'back_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:795:	The local variable name 'signupDriver_layout' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:798:	The local variable name 'driverTitle_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:800:	The local variable name 'name_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:801:	The local variable name 'email_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:802:	The local variable name 'address_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:803:	The local variable name 'bday_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:805:	The local variable name 'bday_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:806:	The local variable name 'password_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:807:	The local variable name 'company_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:811:	The local variable name 'signupDone_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:826:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:826:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:844:	The local variable name 'back_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:852:	The local variable name 'signupVehicle_layout' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:855:	The local variable name 'vehicleTitle_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:858:	The local variable name 'licencePlate_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:859:	The local variable name 'class_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:860:	The local variable name 'position_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:861:	The local variable name 'condition_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:866:	The local variable name 'signupDone_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:886:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:889:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:903:	The local variable name 'signupCompany_layout' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:905:	The local variable name 'companyTitle_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:907:	The local variable name 'name_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:908:	The local variable name 'password_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:912:	The local variable name 'signupDone_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:924:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:932:	The local variable name 'back_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:941:	The local variable name 'login_layout' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:943:	The local variable name 'loginTitle_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:945:	The local variable name 'email_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:946:	The local variable name 'password_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:949:	The local variable name 'login_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:958:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:960:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:964:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:968:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:972:	Position literals first in String comparisons
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:978:	The local variable name 'back_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:991:	The local variable name 'menu_vbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:993:	The local variable name 'menu_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:998:	The local variable name 'info_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1000:	The local variable name 'trips_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1002:	The local variable name 'newTrip_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1003:	The local variable name 'newTrip_tabVBox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1005:	The local variable name 'newTrip_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1011:	The local variable name 'queue_label' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1014:	The local variable name 'cancel_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1029:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1031:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1033:	The local variable name 'drivers_box' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1036:	The local variable name 'positionStart_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1037:	The local variable name 'positionEnd_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1041:	The local variable name 'tripInfo_pane' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1044:	The local variable name 'rateDriver_cbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1046:	The local variable name 'rateDriver_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1048:	The local variable name 'rate_hbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1050:	The local variable name 'newTrip_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1053:	The local variable name 'driver_info' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1123:	The local variable name 'menu_vbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1124:	The local variable name 'menu_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1128:	The local variable name 'info_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1130:	The local variable name 'trips_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1132:	The local variable name 'work_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1133:	The local variable name 'work_tabVbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1135:	The local variable name 'status_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1139:	The local variable name 'status_group' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1140:	The local variable name 'status_box' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1141:	The local variable name 'free_image' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1143:	The local variable name 'occupied_image' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1144:	The local variable name 'free_radioButton' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1145:	The local variable name 'occupied_radioButton' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1161:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1163:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1197:	The local variable name 'menu_vbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1198:	The local variable name 'menu_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1202:	The local variable name 'info_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1204:	The local variable name 'trips_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1206:	The local variable name 'drivers_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1208:	The local variable name 'vehicles_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1219:	The local variable name 'menu_vbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1229:	The local variable name 'menu_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1232:	The local variable name 'info_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1233:	The local variable name 'info_tabVbox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1235:	The local variable name 'info_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1243:	The local variable name 'drivers_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1245:	The local variable name 'clients_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1247:	The local variable name 'vehicles_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1249:	The local variable name 'trips_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1251:	The local variable name 'companies_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1253:	The local variable name 'top_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1254:	The local variable name 'top_tabVBox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1257:	The local variable name 'topMoney_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1260:	The local variable name 'topClients_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1264:	The local variable name 'topDeviations_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1268:	The local variable name 'topdeviation_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1273:	The local variable name 'topBestRating_title' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1282:	The local variable name 'moneyGeneratedBetween_tab' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1283:	The local variable name 'moneyGeneratedBetween_tabVBox' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1305:	The local variable name 'login_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1313:	The local variable name 'signupClient_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1321:	The local variable name 'signupDriver_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1328:	The local variable name 'signupCompany_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1336:	The local variable name 'quit_button' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1344:	The local variable name 'menu_buttons_layout' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1348:	The local variable name 'menu_layout' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java:1397:	The instance method name 'Main' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Helicopter.java:4:	Avoid duplicate imports such as 'java.util.LinkedList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Helicopter.java:4:	Avoid unused imports such as 'java.util.LinkedList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Helicopter.java:5:	Avoid unused imports such as 'java.util'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Helicopter.java:11:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Helicopter.java:54:	Object clone() should be implemented with super.clone()
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Helicopter.java:54:	clone() method should be implemented only if implementing Cloneable interface
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Helicopter.java:54:	clone() method should throw CloneNotSupportedException
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/MoneyComparatorC.java:7:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/MoneyComparatorC.java:15:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/MoneyComparatorC.java:16:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/MoneyComparatorC.java:17:	Useless parentheses.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/MoneyComparatorD.java:7:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/MoneyComparatorD.java:15:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/MoneyComparatorD.java:16:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/MoneyComparatorD.java:17:	Useless parentheses.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/RatingComparator.java:7:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/RatingComparator.java:15:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/RatingComparator.java:16:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/RatingComparator.java:17:	Useless parentheses.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Trip.java:5:	Avoid unused imports such as 'java.util.Date'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Trip.java:6:	Avoid unused imports such as 'java.util.concurrent.TimeUnit'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Trip.java:11:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Trip.java:22:	Use one line for each declaration, it enhances code readability.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Trip.java:234:	Object clone() should be implemented with super.clone()
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Trip.java:234:	clone() method should be implemented only if implementing Cloneable interface
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Trip.java:234:	clone() method should throw CloneNotSupportedException
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Trip.java:244:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Trip.java:245:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:4:	Avoid unused imports such as 'java.time.LocalDateTime'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:6:	Avoid importing anything from the package java.lang
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:6:	Avoid unused imports such as 'java.lang.Comparable'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:7:	Avoid duplicate imports such as 'java.util.ArrayList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:15:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:18:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:19:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:20:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:21:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:22:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:23:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:24:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:53:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:55:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:64:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:70:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:82:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:88:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:100:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:107:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:108:	Avoid unused local variables such as 'i'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:120:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:127:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:139:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:151:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:186:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:188:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:239:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:241:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:256:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:282:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:290:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:291:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:307:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:311:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:313:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:314:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:320:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:335:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:349:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:366:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:374:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:375:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:431:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:476:	Avoid unused local variables such as 'driverSkillMultiplier'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:487:	Consider simply returning the value vs storing it in local variable 'realTime'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:521:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:522:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:522:	Useless parentheses.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:545:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:554:	The local variable name 'comapny_driver' doesn't match '[a-z][a-zA-Z0-9]*'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:558:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:584:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:589:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:590:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:594:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:612:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:630:	Avoid using implementation types like 'TreeSet'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:632:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:642:	Avoid using implementation types like 'TreeSet'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:670:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:677:	Avoid empty while statements
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/UMeR.java:677:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:2:	Avoid unused imports such as 'java.awt.geom.Point2D'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:6:	Avoid unused imports such as 'java.util.Date'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:11:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:21:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:38:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:48:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:49:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:128:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:131:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:229:	The method name and parameter number are suspiciously close to equals(Object)
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:237:	clone() method should be implemented only if implementing Cloneable interface
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:237:	clone() method should throw CloneNotSupportedException
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:253:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/User.java:255:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Van.java:4:	Avoid duplicate imports such as 'java.util.LinkedList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Van.java:4:	Avoid unused imports such as 'java.util.LinkedList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Van.java:5:	Avoid unused imports such as 'java.util'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Van.java:11:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Van.java:56:	Object clone() should be implemented with super.clone()
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Van.java:56:	clone() method should be implemented only if implementing Cloneable interface
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Van.java:56:	clone() method should throw CloneNotSupportedException
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:4:	Avoid unused imports such as 'java.sql.Array'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:6:	Avoid unused imports such as 'java.time.LocalDateTime'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:15:	All classes and interfaces must belong to a named package
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:26:	Avoid using implementation types like 'LinkedList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:27:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:28:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:44:	Avoid unused constructor parameters such as 'available'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:44:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:44:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:44:	Avoid using implementation types like 'LinkedList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:150:	Avoid using implementation types like 'LinkedList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:153:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:165:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:168:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:180:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:182:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:273:	Avoid using implementation types like 'LinkedList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:275:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:275:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:284:	Avoid using implementation types like 'HashMap'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:288:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:300:	Avoid using implementation types like 'ArrayList'; use the interface instead
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:303:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:323:	The method name and parameter number are suspiciously close to equals(Object)
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:332:	clone() method should be implemented only if implementing Cloneable interface
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:332:	clone() method should throw CloneNotSupportedException
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:366:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:412:	This statement should have braces
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/Vehicle.java:415:	This statement should have braces

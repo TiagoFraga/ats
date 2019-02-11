@@ -1,0 +1,143 @@
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/ATS.java:11:	Avoid short class names like ATS
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/ATS.java:39:	Avoid unused local variables such as 'tree'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Bike.java:10:	Avoid short class names like Bike
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Bike.java:42:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Car.java:11:	Avoid short class names like Car
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Car.java:43:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Car.java:68:	Avoid empty if statements
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Client.java:20:	Comment is too large: Too many lines
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Client.java:36:	Avoid long parameter lists.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Client.java:64:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Client.java:136:	Avoid variables with short names like b
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Client.java:172:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Company.java:41:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Company.java:141:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Company.java:158:	Avoid variables with short names like s
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Company.java:169:	Avoid variables with short names like s
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Company.java:179:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Company.java:187:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Company.java:240:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Company.java:264:	Avoid variables with short names like t1
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Company.java:264:	Avoid variables with short names like t2
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/CustomProbabilisticDistribution.java:34:	Avoid variables with short names like n
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/DeviationComparator.java:8:	Each class should declare at least one constructor
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/DeviationComparator.java:15:	Avoid variables with short names like d1
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/DeviationComparator.java:15:	Avoid variables with short names like d2
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Driver.java:23:	Comment is too large: Too many lines
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Driver.java:41:	Avoid long parameter lists.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Driver.java:52:	Comment is too large: Too many lines
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Driver.java:76:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Driver.java:177:	Avoid variables with short names like b
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Driver.java:248:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Driver.java:256:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:26:	Avoid really long classes.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:26:	Avoid short class names like GUI
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:26:	Each class should declare at least one constructor
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:41:	The String literal "admin" appears 7 times in this file; the first occurrence is on line 41
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:81:	The String literal "umer.Driver" appears 4 times in this file; the first occurrence is on line 81
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:93:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:96:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:98:	Avoid unused local variables such as 'vehicle'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:110:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:229:	Avoid variables with short names like p
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:292:	Avoid variables with short names like i
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:309:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:314:	The String literal "Clientes" appears 4 times in this file; the first occurrence is on line 314
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:318:	The String literal "Condutores" appears 4 times in this file; the first occurrence is on line 318
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:363:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:521:	Avoid variables with short names like s
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:521:	Avoid variables with short names like t1
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:521:	Avoid variables with short names like t2
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:569:	Avoid variables with short names like s
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:595:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:606:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:622:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:630:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:643:	Avoid variables with short names like s
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:654:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:699:	Avoid variables with short names like s
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:700:	Avoid variables with short names like i
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:703:	The String literal " - " appears 4 times in this file; the first occurrence is on line 703
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:710:	Avoid variables with short names like s
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:711:	Avoid variables with short names like i
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:721:	Avoid variables with short names like s
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:722:	Avoid variables with short names like i
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:743:	The String literal "Password" appears 4 times in this file; the first occurrence is on line 743
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:761:	Avoid variables with short names like b
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:810:	Avoid variables with short names like b
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:862:	Avoid variables with short names like b
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:902:	Avoid variables with short names like b
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:908:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:939:	Avoid variables with short names like b
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:968:	Avoid really long methods.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:1353:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/GUI.java:1365:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Helicopter.java:42:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/MoneyComparatorC.java:8:	Each class should declare at least one constructor
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/MoneyComparatorC.java:15:	Avoid variables with short names like c1
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/MoneyComparatorC.java:15:	Avoid variables with short names like c2
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/MoneyComparatorD.java:8:	Each class should declare at least one constructor
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/MoneyComparatorD.java:15:	Avoid variables with short names like d1
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/MoneyComparatorD.java:15:	Avoid variables with short names like d2
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/RatingComparator.java:8:	Each class should declare at least one constructor
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/RatingComparator.java:15:	Avoid variables with short names like d1
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/RatingComparator.java:15:	Avoid variables with short names like d2
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Trip.java:10:	Avoid short class names like Trip
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Trip.java:14:	Avoid variables with short names like id
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Trip.java:51:	Comment is too large: Too many lines
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Trip.java:68:	Avoid long parameter lists.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Trip.java:68:	Avoid variables with short names like id
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Trip.java:90:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:6:	Avoid duplicate imports such as 'java.util.ArrayList'
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:14:	Avoid short class names like UMeR
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:107:	Avoid unused local variables such as 'i'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:107:	Avoid variables with short names like i
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:297:	Comment is too large: Line too long
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:299:	Comment is too large: Line too long
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:302:	Avoid variables with short names like u
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:308:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:327:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:344:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:355:	Comment is too large: Line too long
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:357:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:372:	Avoid variables with short names like u
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:381:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:429:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:442:	Comment is too large: Line too long
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:449:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:449:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:475:	Avoid unused local variables such as 'driverSkillMultiplier'.
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:551:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:564:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:564:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:565:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:581:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:585:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:603:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:603:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:603:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:603:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:619:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:652:	Comment is too large: Line too long
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:654:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:655:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:676:	Avoid empty while statements
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:676:	Avoid variables with short names like d
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/UMeR.java:704:	Avoid variables with short names like u
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/User.java:10:	Avoid short class names like User
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/User.java:26:	Comment is too large: Too many lines
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/User.java:55:	Avoid variables with short names like p
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/User.java:242:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Van.java:10:	Avoid short class names like Van
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Van.java:42:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:32:	Comment is too large: Too many lines
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:285:	Avoid variables with short names like a
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:322:	Avoid variables with short names like v
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:357:	Avoid variables with short names like s
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:358:	Avoid variables with short names like i
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:373:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:374:	Avoid variables with short names like p
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:387:	Avoid variables with short names like c
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:397:	Avoid variables with short names like t
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:409:	Avoid variables with short names like t1
+/Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP3/ats1819-projecto/src/java/umer/Vehicle.java:409:	Avoid variables with short names like t2

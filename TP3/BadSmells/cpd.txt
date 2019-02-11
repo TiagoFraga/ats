@@ -1,0 +1,15 @@
+Found a 11 line (177 tokens) duplication in the following files: 
+Starting at line 763 of /Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java
+Starting at line 809 of /Users/tiagofraga/Desktop/Complementares/ATS/Trabalhos/Local/TP2/copia/src/java/GUI.java
+
+        Label success = successLabel("Cliente registado com sucesso!");
+
+        Button signupDone_button = doneRegisterButton();
+        signupDone_button.setOnAction(e -> {
+            String email     = ((TextField) email_hbox.getChildren().get(1)).getText();
+            String name      = ((TextField) name_hbox.getChildren().get(1)).getText();
+            String address   = ((TextField) address_hbox.getChildren().get(1)).getText();
+            int     bdayD    = (int) ((ComboBox) bday_hbox.getChildren().get(0)).getValue();
+            int     bdayM    = (int) ((ComboBox) bday_hbox.getChildren().get(1)).getValue();
+            int     bdayY    = (int) ((ComboBox) bday_hbox.getChildren().get(2)).getValue();
+            String  password = ((TextField) password_hbox.getChildren().get(1)).getText();
